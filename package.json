@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "update": "node scripts/update-intel.mjs",
-    "update:force": "FORCE_UPDATE=1 node scripts/update-intel.mjs"
+    "update:force": "FORCE_UPDATE=1 node scripts/update-intel.mjs",
+    "sync:notion": "node scripts/sync-notion.mjs"
   }
 }
