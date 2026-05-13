@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="AI 热点与营销投放情报">
+    <title>AI 热点与营销投放情报</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <div class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">AI HOT · Marketing Intelligence</p>
+          <h1>AI 热点与营销投放情报</h1>
+        </div>
+        <div class="status-pill" id="statusPill">正在读取最新一期</div>
+      </header>
+
+      <main>
+        <section class="brief" aria-labelledby="briefTitle">
+          <img class="brief-visual" src="assets/console-backdrop.svg" alt="" aria-hidden="true">
+          <div class="brief-main">
+            <div class="date-row">
+              <span id="issueDate">--</span>
+              <span id="updatedAt">--</span>
+            </div>
+            <h2 id="briefTitle">今日 AI 情报</h2>
+            <p id="coverageLabel">本期覆盖：--</p>
+            <p id="headline">正在加载 AI HOT 与扩展公开来源。</p>
+            <div class="summary-grid" id="summaryGrid"></div>
+          </div>
+          <aside class="brief-side" aria-label="本期关键数据">
+            <div>
+              <span class="metric" id="metricItems">--</span>
+              <span class="metric-label">热点条目</span>
+            </div>
+            <div>
+              <span class="metric" id="metricSources">--</span>
+              <span class="metric-label">公开来源</span>
+            </div>
+            <div>
+              <span class="metric" id="metricCategories">--</span>
+              <span class="metric-label">覆盖分类</span>
+            </div>
+          </aside>
+        </section>
+
+        <nav class="archive-tabs" aria-label="最近 5 个更新日" id="archiveTabs"></nav>
+
+        <section class="keyword-lab" aria-labelledby="keywordTitle">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Keyword Pool</p>
+              <h2 id="keywordTitle">本期可投放关键词池</h2>
+            </div>
+            <button class="copy-all" type="button" id="copyAllKeywords">复制全部词库</button>
+          </div>
+          <div class="keyword-columns" id="keywordColumns"></div>
+        </section>
+
+        <section class="signals" aria-labelledby="signalsTitle">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Signals</p>
+              <h2 id="signalsTitle">投放洞察</h2>
+            </div>
+          </div>
+          <div class="signal-list" id="signalList"></div>
+        </section>
+
+        <section class="news-board" aria-labelledby="newsTitle">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">AI HOT + Public Sources</p>
+              <h2 id="newsTitle">热点分组</h2>
+            </div>
+          </div>
+          <div class="group-stack" id="groupStack"></div>
+        </section>
+      </main>
+    </div>
+
+    <div class="toast" id="toast" role="status" aria-live="polite">已复制</div>
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>
