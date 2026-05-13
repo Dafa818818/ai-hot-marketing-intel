@@ -1,0 +1,27 @@
+name: Sync AI Intelligence to Notion
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync latest issue to Notion
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DAILY_DATA_SOURCE_ID: ${{ secrets.NOTION_DAILY_DATA_SOURCE_ID }}
+          NOTION_ITEMS_DATA_SOURCE_ID: ${{ secrets.NOTION_ITEMS_DATA_SOURCE_ID }}
+          NOTION_KEYWORDS_DATA_SOURCE_ID: ${{ secrets.NOTION_KEYWORDS_DATA_SOURCE_ID }}
+        run: node scripts/sync-notion.mjs
