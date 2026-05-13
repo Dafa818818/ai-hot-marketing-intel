@@ -55,3 +55,13 @@ jobs:
             git tag -a "${tag}" -m "AI 热点与营销投放情报 ${{ steps.commit.outputs.issue_id }}"
             git push origin "${tag}"
           fi
+
+      - name: Sync to Notion
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DAILY_DATA_SOURCE_ID: ${{ secrets.NOTION_DAILY_DATA_SOURCE_ID }}
+          NOTION_ITEMS_DATA_SOURCE_ID: ${{ secrets.NOTION_ITEMS_DATA_SOURCE_ID }}
+          NOTION_KEYWORDS_DATA_SOURCE_ID: ${{ secrets.NOTION_KEYWORDS_DATA_SOURCE_ID }}
+          NOTION_SKIP_IF_MISSING: "1"
+        run: node scripts/sync-notion.mjs
