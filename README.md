@@ -17,6 +17,14 @@
 - 如果需要回看某一期，可在 GitHub 的 Tags/标签里按日期查找。
 - 页面只展示最近 5 个更新日，但 GitHub 的提交历史和标签会保留更早版本，方便回溯。
 
+## Notion 同步
+
+- 每次页面数据成功更新后，GitHub Actions 会尝试把最新一期同步到 Notion。
+- 同步内容包括：每日更新总览、每条热点、当期投放关键词池。
+- 同步脚本会先检查 Notion 是否已有同一期，已有则跳过，避免重复写入。
+- Notion 授权只通过 GitHub Secrets 保存，不写进公开仓库。
+- 如果没有配置 Notion Secrets，网页更新仍会正常进行，只会跳过 Notion 同步。
+
 ## 成本
 
 默认方案使用 GitHub Pages、GitHub Actions、AI HOT 公开接口和公开 RSS/Atom 来源，不需要付费 AI API，不需要信用卡。
