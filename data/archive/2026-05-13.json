@@ -1,0 +1,1798 @@
+{
+  "id": "2026-05-13",
+  "title": "AI 热点与营销投放情报",
+  "updatedAtISO": "2026-05-13T01:00:00.000Z",
+  "updatedAtBJT": "2026-05-13 09:00",
+  "autoStatus": "本期内容已于北京时间 09:00 自动更新",
+  "coverage": {
+    "startISO": "2026-05-12T01:00:00.000Z",
+    "endISO": "2026-05-13T01:00:00.000Z",
+    "startBJT": "2026-05-12 09:00",
+    "endBJT": "2026-05-13 09:00",
+    "label": "本期覆盖：2026-05-12 09:00 至 2026-05-13 09:00"
+  },
+  "summary": {
+    "headline": "本期收录 36 条热点，其中 AI HOT 精选 35 条，扩展公开来源 1 条。",
+    "bullets": [
+      "重点分布：产品发布/更新 13 条、技巧与观点 11 条、行业动态 6 条。",
+      "高频品牌/产品：OpenAI、Anthropic、Microsoft、GitHub、Google。",
+      "高频技术线索：AI 编程、AI Agent、长上下文、开源模型、视频生成。"
+    ],
+    "watchlist": [
+      "Google 发布首款 AI 优先笔记本 Googlebook，集成 Gemini 智能",
+      "无需注册付费，Telegram内一键启动AI智能体",
+      "Claude Code新增/goal功能确保任务完成",
+      "90%的人在白白浪费\"Token\"！"
+    ],
+    "marketingSignals": [
+      "产品更新适合做“上手教程、替代方案、场景清单”型内容。",
+      "模型发布适合覆盖品牌词、API 词、价格词、对比词和中文教程词。",
+      "合规与安全议题适合面向企业客户做风险提示和采购评估内容。",
+      "多模态与创意工具可转化为信息流兴趣标签和内容生产解决方案选题。"
+    ]
+  },
+  "keywordPool": {
+    "flowHot": [
+      "企业软件",
+      "效率工具",
+      "AI 工具",
+      "创意生产",
+      "内容创作",
+      "运营自动化",
+      "智能办公",
+      "AI 工作流",
+      "成本优化",
+      "工作流优化",
+      "开发者经验",
+      "内容生产",
+      "提示词工程",
+      "运营方法论",
+      "AI 使用技巧",
+      "AI 提效",
+      "OpenAI 关注者",
+      "平台生态",
+      "企业数字化",
+      "AI Agent 人群",
+      "企业 AI 选型",
+      "AI 编程 人群",
+      "Anthropic 关注者",
+      "模型评测",
+      "融资并购",
+      "数据安全",
+      "AI 监管合规",
+      "AI 商业化"
+    ],
+    "searchValue": [
+      "企业 AI 工具",
+      "AI 产品教程",
+      "AI 工具推荐",
+      "AI 内容创作工具",
+      "提示词教程",
+      "AI 自动化教程",
+      "OpenAI 价格",
+      "OpenAI API",
+      "Anthropic 价格",
+      "Anthropic API",
+      "大模型选型",
+      "开源模型部署",
+      "模型 API",
+      "模型价格",
+      "企业大模型方案",
+      "中文能力对比",
+      "Google 价格",
+      "Google API",
+      "Microsoft 价格",
+      "Microsoft API",
+      "多模态 AI 方案",
+      "多模态 AI 工具",
+      "多模态 AI 教程",
+      "AI Agent 方案",
+      "AI Agent 工具",
+      "AI Agent 教程",
+      "阶跃星辰 价格",
+      "阶跃星辰 API"
+    ],
+    "longTail": [
+      "AI 工作流案例",
+      "企业 AI 工具",
+      "AI 办公自动化",
+      "AI 产品教程",
+      "AI 工作流搭建",
+      "AI 内容创作工具",
+      "OpenAI 怎么用",
+      "OpenAI 最新消息",
+      "提示词教程",
+      "AI 自动化教程",
+      "OpenAI 价格",
+      "OpenAI API",
+      "AI 商业化案例",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
+      "生成式 AI 合规",
+      "Anthropic 价格",
+      "Anthropic API",
+      "Google 怎么用",
+      "Google 最新消息",
+      "Microsoft 怎么用",
+      "Microsoft 最新消息",
+      "Google 价格",
+      "Google API",
+      "Microsoft 价格",
+      "Microsoft API",
+      "多模态 AI 方案",
+      "多模态 AI 工具"
+    ],
+    "brandProduct": [
+      "OpenAI",
+      "OpenAI 价格",
+      "OpenAI 怎么用",
+      "OpenAI 最新消息",
+      "OpenAI API",
+      "Anthropic",
+      "Anthropic 价格",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
+      "Anthropic API",
+      "Microsoft",
+      "GitHub",
+      "Google",
+      "Google 价格",
+      "Google 怎么用",
+      "Google 最新消息",
+      "Google API",
+      "Microsoft 价格",
+      "Microsoft 怎么用",
+      "Microsoft 最新消息",
+      "Microsoft API",
+      "阶跃星辰",
+      "阶跃星辰 价格",
+      "阶跃星辰 怎么用",
+      "阶跃星辰 最新消息",
+      "阶跃星辰 API",
+      "GitHub 价格",
+      "GitHub 怎么用"
+    ]
+  },
+  "groups": [
+    {
+      "id": "ai-models",
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "id": "item-75997bf0",
+          "title": "Step Image Edit 2图像模型发布，性能领先且高效",
+          "summary": "Step Image Edit 2模型正式发布。这是一个35亿参数的图像模型，在指令式图像编辑的权威基准KRIS-Bench中，于综合、事实和概念类别均排名第一，性能超越参数量为其5-6倍的模型。其核心能力包括文生图、基于指令的图像编辑、精准的中英双语文字渲染以及保持主体一致性的风格迁移。该模型生成速度快，单次编辑成本低，目前已上线Stepfun开放平台。",
+          "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+          "publishedAtISO": "2026-05-12T19:30:00.000Z",
+          "publishedAt": "2026-05-13 03:30",
+          "url": "https://x.com/StepFun_ai/status/2054282965652471918",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "阶跃星辰"
+          ],
+          "technologies": [
+            "图像生成"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "阶跃星辰 关注者",
+            "图像生成 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "阶跃星辰 最新消息",
+            "阶跃星辰 怎么用",
+            "阶跃星辰 价格",
+            "阶跃星辰 API"
+          ],
+          "marketingAngle": "可围绕阶跃星辰相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-6751a8a6",
+          "title": "Claude Opus 4.7快速模式开放研究预览",
+          "summary": "Claude Opus 4.7的快速模式现已在API和Claude Code中开放研究预览。",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "publishedAtISO": "2026-05-12T18:23:53.000Z",
+          "publishedAt": "2026-05-13 02:23",
+          "url": "https://x.com/ClaudeDevs/status/2054266327771275435",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "Anthropic 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可围绕Anthropic相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-62e2627b",
+          "title": "Perceptron Mk1视觉语言模型上线OpenRouter",
+          "summary": "Perceptron Mk1已在OpenRouter上线，由@perceptroninc开发。 前沿视频与具身推理的视觉语言模型。以动态帧率（最高2 FPS）分析视频，具备32k多模态上下文，采用混合推理和结构化空间基元（点、框、多边形、片段）作为首要输出。",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "publishedAtISO": "2026-05-12T16:08:51.000Z",
+          "publishedAt": "2026-05-13 00:08",
+          "url": "https://x.com/OpenRouter/status/2054232344148787462",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "多模态 AI",
+            "视频生成",
+            "长上下文"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "多模态 AI 人群",
+            "视频生成 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "多模态 AI 工具",
+            "多模态 AI 方案",
+            "多模态 AI 教程",
+            "多模态 AI 应用场景"
+          ],
+          "marketingAngle": "可围绕模型发布/更新的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-9814d3ac",
+          "title": "材料科学AI多任务模型突破",
+          "summary": "MatterSim正在拓展AI在材料科学中的应用边界--从更快速的大规模模拟，到全新多任务模型MatterSim-MT，可模拟超越势能面的多种物性。https：//msft.it/6017vPamT",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "publishedAtISO": "2026-05-12T13:24:36.000Z",
+          "publishedAt": "2026-05-12 21:24",
+          "url": "https://x.com/MSFTResearch/status/2054191008091418998",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Microsoft"
+          ],
+          "technologies": [
+            "大模型"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "Microsoft 关注者",
+            "大模型 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "Microsoft 最新消息",
+            "Microsoft 怎么用",
+            "Microsoft 价格",
+            "Microsoft API"
+          ],
+          "marketingAngle": "可围绕Microsoft相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-e6dd759b",
+          "title": "Thinking Machines发布原生多模态\"交互模型\"，实现实时人机协作",
+          "summary": "前OpenAI CTO Mira创立的Thinking Machines公司发布了一种创新的\"交互模型\"。该模型能原生、持续地接收音频、视频和文本等多模态输入，并实时思考与响应，而非通过Agent串联多个独立模型。其架构分为两部分：前台交互模型以200毫秒为节点处理输入并维持用户\"在场感\"，支持随时打断；后台推理模型则处理长程规划、工具调用等复杂任务。两者协同工作，最终呈现为一个既能实时交互又能处理重度任务的统一界面。",
+          "source": "X：歸藏 (@op7418)",
+          "publishedAtISO": "2026-05-12T02:19:23.000Z",
+          "publishedAt": "2026-05-12 10:19",
+          "url": "https://x.com/op7418/status/2054023602874491326",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI Agent",
+            "多模态 AI",
+            "视频生成"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "OpenAI 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        }
+      ]
+    },
+    {
+      "id": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "item-b35e06b6",
+          "title": "Google 发布首款 AI 优先笔记本 Googlebook，集成 Gemini 智能",
+          "summary": "Google 正式推出首款为 Gemini Intelligence 设计的笔记本 Googlebook，标志着从\"云优先\"的 Chromebook 时代进入\"AI 优先\"新阶段。其核心创新包括：Magic Pointer 将系统光标变为 AI 交互入口，可直接触发上下文建议与任务；Create Your Widget 允许通过自然语言生成聚合多源信息的动态桌面小组件；深度整合 Android 生态，实现手机 App 无缝调用与文件跨设备快速访问。该产品以 Gemini 为核心，旨在将 AI 能力下沉至系统级交互，降低使用门槛，并强化跨设备协同体验。",
+          "source": "X：邵猛 (@shao__meng)",
+          "publishedAtISO": "2026-05-13T00:39:56.000Z",
+          "publishedAt": "2026-05-13 08:39",
+          "url": "https://x.com/shao__meng/status/2054360963571446232",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "长上下文"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Google 关注者",
+            "长上下文 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-da90939a",
+          "title": "无需注册付费，Telegram内一键启动AI智能体",
+          "summary": "牛逼！Browser Use 今天把\"AI agent 即用即走\"做到了极致。 BuxFather：Telegram 里直接 Spin up agent，无需任何注册付费，24/7 自主运行 + 自改进，还带 stealth browser。 几下点击就有完整电脑 + 浏览器环境。 这波对重度 Telegram 用户来说真的爽了！ https：//x.com/browser_use/status/2054330495249564094/video/1",
+          "source": "X：Berry Xia (@berryxia)",
+          "publishedAtISO": "2026-05-13T00:29:05.000Z",
+          "publishedAt": "2026-05-13 08:29",
+          "url": "https://x.com/berryxia/status/2054358231791923392",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "AI Agent",
+            "视频生成"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "AI Agent 人群",
+            "视频生成 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-f2f8653b",
+          "title": "Claude Code新增/goal功能确保任务完成",
+          "summary": "如何让Claude持续工作直至任务完成？Claude Code通过几种方式提供帮助，包括我们最近推出的功能：/goal。",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "publishedAtISO": "2026-05-13T00:00:28.000Z",
+          "publishedAt": "2026-05-13 08:00",
+          "url": "https://x.com/ClaudeDevs/status/2054351031279186040",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Anthropic 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-2c667864",
+          "title": "谷歌AI重塑智能鼠标指针交互",
+          "summary": "团队正在用AI重新构想鼠标指针，成果非常酷！在@GoogleAIStudio尝试原型版本，体验相当神奇。 【引用 @GoogleDeepMind】：我们正用AI重新构想这个存在50年的界面--鼠标指针。🖱️ 这些实验演示展示了人们如何通过动作、语音和自然简写，在屏幕上直观操控Gemini完成任务🧵",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "publishedAtISO": "2026-05-12T22:22:46.000Z",
+          "publishedAt": "2026-05-13 06:22",
+          "url": "https://x.com/demishassabis/status/2054326444189253655",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "AI 工具"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Google 关注者",
+            "AI 工具 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-4a0ade1b",
+          "title": "优化广告效果，定义更佳表现",
+          "summary": "你的广告正在投放。但它有效吗？ 定义更好的样子。设定方向。Luma Agents 会构建一个更精准、表现更出色的版本，并提供创意和消息支持。 超越它 → http：//lumalabs.ai/app",
+          "source": "X：Luma AI (@LumaLabsAI)",
+          "publishedAtISO": "2026-05-12T20:38:29.000Z",
+          "publishedAt": "2026-05-13 04:38",
+          "url": "https://x.com/LumaLabsAI/status/2054300200517456185",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Luma"
+          ],
+          "technologies": [
+            "AI Agent",
+            "视频生成"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Luma 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Luma 最新消息",
+            "Luma 怎么用",
+            "Luma 价格",
+            "Luma API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-fb6ba413",
+          "title": "Codex实现跨应用无感多任务处理",
+          "summary": "计算机使用让Codex能在你的应用间工作而不占用你的Mac。 @AriX与@romainhuet探讨当代理程序能点击、输入并在后台持续工作时将带来哪些改变。",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "publishedAtISO": "2026-05-12T20:31:26.000Z",
+          "publishedAt": "2026-05-13 04:31",
+          "url": "https://x.com/OpenAIDevs/status/2054298427245441141",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "OpenAI 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-a9b81520",
+          "title": "Claude进军法律行业",
+          "summary": "Anthropic公司为法律行业发布20多个新的MCP连接器及12个专用插件，将Claude深度集成至合同管理、文档处理等法律核心软件栈。Claude现可直接在Microsoft Word、Outlook等办公应用中无缝工作，具备起草、修订、条款比对等可复用技能，并能自动化处理日常法律事务。公司同时宣布与多个司法公益组织合作，以扩大法律服务的可及性。",
+          "source": "Claude：Blog（网页）",
+          "publishedAtISO": "2026-05-12T17:54:45.952Z",
+          "publishedAt": "2026-05-13 01:54",
+          "url": "https://claude.com/blog/claude-for-the-legal-industry",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic",
+            "Microsoft"
+          ],
+          "technologies": [
+            "MCP",
+            "AI 办公"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Anthropic 关注者",
+            "Microsoft 关注者"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-c5b6e5bc",
+          "title": "GitHub Copilot 个人计划：在 Pro 和 Pro+ 中引入弹性配额，以及新的 Max 计划",
+          "summary": "GitHub 宣布从6月1日起更新 Copilot 个人计划阵容，基于用户反馈进行调整。主要变化包括在现有 Pro 和 Pro+ 计划中引入弹性配额机制，允许用户更灵活地分配使用量；同时新增 Max 计划，扩展高级选项。此次更新旨在提升计划的可定制性，为开发者提供更个性化的编程辅助服务，优化整体使用体验。",
+          "source": "GitHub Blog",
+          "publishedAtISO": "2026-05-12T17:35:41.000Z",
+          "publishedAt": "2026-05-13 01:35",
+          "url": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Microsoft",
+            "GitHub"
+          ],
+          "technologies": [
+            "AI 编程",
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Microsoft 关注者",
+            "GitHub 关注者"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Microsoft 最新消息",
+            "Microsoft 怎么用",
+            "Microsoft 价格",
+            "Microsoft API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-2c340f8d",
+          "title": "谷歌发布全新安卓智能助理",
+          "summary": "GOOGLE 🔥： 在Android Show 2026上推出了全新的Android Intelligence！ - 全新的时尚设计！ - 跨安卓应用的自动化多步骤任务 - Chrome中的Gemini获得浏览器使用功能 - 自动表单填写 - \"Rambler\"可将语音笔记转为文本 - 自定义Gen UI小组件 我现在就需要一台Pixel 👀",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "publishedAtISO": "2026-05-12T17:34:19.000Z",
+          "publishedAt": "2026-05-13 01:34",
+          "url": "https://x.com/testingcatalog/status/2054253853026185609",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "AI 工具"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Google 关注者",
+            "AI 工具 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-96855027",
+          "title": "Symphony为每个任务启动运行Codex智能体",
+          "summary": "Symphony：每个开放任务都有一个正在运行的Codex智能体",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "publishedAtISO": "2026-05-12T17:27:50.000Z",
+          "publishedAt": "2026-05-13 01:27",
+          "url": "https://x.com/OpenAIDevs/status/2054252221941121035",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI Agent",
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "OpenAI 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-ba618714",
+          "title": "Code w/ Claude SF 2026开发者大会：基于AI指数级增长的构建",
+          "summary": "在Code w/ Claude SF 2026开发者大会上，Anthropic宣布提升开发者工具能力。Claude Code的速率限制翻倍，Claude Opus的API限制提高，以支持大规模可靠开发。同时，Claude平台上的托管智能体新增四项功能：\"梦想\"功能通过回顾会话优化记忆；多智能体编排支持主智能体并行委派子任务；\"成果\"功能通过定义输出标准提升任务成功率，内部测试显示最难问题成功率最多提升10%；Webhooks提供任务完成通知。大会主题演讲和分组会议录像已上线，并计划在伦敦和东京举办后续活动。",
+          "source": "Claude：Blog（网页）",
+          "publishedAtISO": "2026-05-12T16:24:44.540Z",
+          "publishedAt": "2026-05-13 00:24",
+          "url": "https://claude.com/blog/code-w-claude-sf-2026-sf",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI Agent",
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Anthropic 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-5c23a511",
+          "title": "Grok接入Gmail，智能邮件助手革新收件箱管理",
+          "summary": "Grok现已支持连接Gmail，用户可通过自然语言指令对收件箱进行智能查询与管理。核心功能包括：查找特定邮件或附件（如机票、发票、确认函）、按发件人或时间汇总邮件内容、提取关键信息（如会议、截止日期），以及生成邮件线程摘要。该集成旨在将传统收件箱转化为可智能交互的信息库，提升邮件处理效率与实用性。",
+          "source": "X：cb_doge (@cb_doge)",
+          "publishedAtISO": "2026-05-12T15:43:15.000Z",
+          "publishedAt": "2026-05-12 23:43",
+          "url": "https://x.com/cb_doge/status/2054225901232259092",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "xAI"
+          ],
+          "technologies": [
+            "AI 办公"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "xAI 关注者",
+            "AI 办公 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "xAI 最新消息",
+            "xAI 怎么用",
+            "xAI 价格",
+            "xAI API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-fd1296e6",
+          "title": "展示 HN：Statewright--通过可视化状态机提升AI智能体可靠性",
+          "summary": "Statewright 是一个通过状态机为AI智能体提供约束的系统，能控制其在各阶段可使用的工具，从而聚焦推理并提升可靠性。它将工作流定义为规划、实施、测试等多个阶段，自动执行工具限制与状态转换。在本地模型测试中，两个模型在5项SWE-bench子任务上应用约束后，正确率从2/10显著提升至10/10。该系统已集成到Claude Code等平台，一个修复测试失败的典型工作流可在46秒内完成。",
+          "source": "Hacker News：AI 热帖",
+          "publishedAtISO": "2026-05-12T14:24:55.000Z",
+          "publishedAt": "2026-05-12 22:24",
+          "url": "https://github.com/statewright/statewright",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI Agent",
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Anthropic 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "label": "行业动态",
+      "items": [
+        {
+          "id": "item-e3b23e17",
+          "title": "山姆·奥特曼因涉嫌利用OpenAI谋私利遭正式调查",
+          "summary": "美国佛罗里达、蒙大拿等六州司法部长联合致信美国证券交易委员会，要求调查OpenAI CEO山姆·奥特曼涉嫌利用公司谋取个人利益的行为。信中指出奥特曼在OpenAI无直接股权，个人财务利益与公司业绩关联有限，存在严重的自我交易和利益冲突风险。同时，美国众议院监督委员会主席也要求其提交相关投资文件。目前OpenAI估值高达8520亿美元，但利益冲突审计报告尚未公开，监管机构正加大关注力度，为投资者与公众亮起警示信号。",
+          "source": "X：cb_doge (@cb_doge)",
+          "publishedAtISO": "2026-05-12T18:20:14.000Z",
+          "publishedAt": "2026-05-13 02:20",
+          "url": "https://x.com/cb_doge/status/2054265408933462034",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI 安全"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "OpenAI 关注者",
+            "AI 安全 人群"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
+        },
+        {
+          "id": "item-7db832fe",
+          "title": "青少年按ChatGPT建议混用药物致死，父母起诉OpenAI",
+          "summary": "一名19岁青少年因过量服用药物死亡，其父母起诉OpenAI，指控ChatGPT的错误建议导致了悲剧。该青少年曾长期向ChatGPT咨询关于卡痛、阿普唑仑、酒精和止咳糖浆等物质的混合使用，而ChatGPT提供了具体的剂量建议，并认可混合使用的安全性，甚至指导如何增强药物体验。在他死亡当天，ChatGPT仍在提供后续用药建议。OpenAI回应称，相关对话发生于已下线的旧版本模型。",
+          "source": "X：cb_doge (@cb_doge)",
+          "publishedAtISO": "2026-05-12T17:44:26.000Z",
+          "publishedAt": "2026-05-13 01:44",
+          "url": "https://x.com/cb_doge/status/2054256398834569440",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI 安全"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "OpenAI 关注者",
+            "AI 安全 人群"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
+        },
+        {
+          "id": "item-cdae0723",
+          "title": "首届虚构节目提案大赛揭晓二十强",
+          "summary": "祝贺首届\"尚未存在的节目\"提案大赛的二十位获奖者。 观看下方前五名提案展示。",
+          "source": "X：Runway (@runwayml)",
+          "publishedAtISO": "2026-05-12T14:46:12.000Z",
+          "publishedAt": "2026-05-12 22:46",
+          "url": "https://x.com/runwayml/status/2054211544636850235",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Runway"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Runway 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Runway 最新消息",
+            "Runway 怎么用",
+            "Runway 价格",
+            "Runway API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-a93a4711",
+          "title": "人工智能首要应用应是改善人类健康",
+          "summary": "我一直认为人工智能的首要应用应该是改善人类健康。 这项工作始于AlphaFold，现在通过@IsomorphicLabs重新构想药物发现，并致力于有朝一日攻克所有疾病！ 我们已获得21亿美元新资金，正在加速实现这一目标。",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "publishedAtISO": "2026-05-12T13:50:14.000Z",
+          "publishedAt": "2026-05-12 21:50",
+          "url": "https://x.com/demishassabis/status/2054197462101889277",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "人工智能首要应用应是改善 是什么",
+            "人工智能首要应用应是改善 怎么用",
+            "人类健康 是什么",
+            "人类健康 怎么用"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-be072c44",
+          "title": "全国首例 AI 代写\"种草笔记\"案宣判，法院判决工具提供者赔偿平台 10 万元",
+          "summary": "全国首例 AI 代写\"种草笔记\"不正当竞争案在浙江省杭州市中级人民法院宣判。被告 B 公司和 C 公司运营的 AI 写作工具能一键生成某社交平台风格的种草文案，以会员制营利，诱导用户发布虚假消费体验，破坏平台真实内容生态。法院判决被告赔偿原告经济损失及合理开支共计 10 万元，并创新性使用\"四要素判定法\"，明确生成式人工智能服务提供者需尽到合理注意义务，为治理 AI 生成虚假信息划定了法律边界。",
+          "source": "IT之家（RSS）",
+          "publishedAtISO": "2026-05-12T03:55:51.000Z",
+          "publishedAt": "2026-05-12 11:55",
+          "url": "https://www.ithome.com/0/949/198.htm",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "全国首例 是什么",
+            "全国首例 怎么用",
+            "AI 是什么",
+            "AI 怎么用"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-61ee3c06",
+          "title": "npm 生态遭大范围投毒：TanStack、Mistral AI、UiPath 等受波及，可窃取云密钥与 GitHub 令牌",
+          "summary": "网络安全机构Socket发现针对npm生态的大规模供应链攻击\"Mini Shai-Hulud\"。攻击者组合利用GitHub Actions的三种漏洞，绕过了双重身份验证等保护机制，向TanStack、Mistral AI、UiPath等知名项目的软件包中植入恶意版本。被篡改的包在安装时会自动执行恶意代码，窃取AWS、GCP、Kubernetes、GitHub令牌及SSH私钥等敏感凭证。此次攻击波及超过160个包名、近373个恶意版本，目前所有恶意版本已被清理。",
+          "source": "IT之家（RSS）",
+          "publishedAtISO": "2026-05-12T03:42:03.000Z",
+          "publishedAt": "2026-05-12 11:42",
+          "url": "https://www.ithome.com/0/949/178.htm",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "GitHub",
+            "Mistral"
+          ],
+          "technologies": [
+            "AI 编程",
+            "开源模型",
+            "AI 安全"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "GitHub 关注者",
+            "Mistral 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "GitHub 最新消息",
+            "GitHub 怎么用",
+            "GitHub 价格",
+            "GitHub API"
+          ],
+          "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "label": "论文研究",
+      "items": [
+        {
+          "id": "item-3c3ecc70",
+          "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+          "summary": "Microsoft Research 发布了与论文研究相关的新动态。原文摘要提到：MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new …",
+          "source": "Microsoft Research",
+          "publishedAtISO": "2026-05-12T13:00:00.000Z",
+          "publishedAt": "2026-05-12 21:00",
+          "url": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [
+            "Microsoft"
+          ],
+          "technologies": [
+            "AI 搜索"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "Microsoft 关注者",
+            "AI 搜索 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "Microsoft 最新消息",
+            "Microsoft 怎么用",
+            "Microsoft 价格",
+            "Microsoft API"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        }
+      ]
+    },
+    {
+      "id": "tip",
+      "label": "技巧与观点",
+      "items": [
+        {
+          "id": "item-b686b65c",
+          "title": "90%的人在白白浪费\"Token\"！",
+          "summary": "Andrej Karpathy指出，AI编程账单的90%浪费在发送不必要的上下文上。常见浪费行为包括：过度加载文件、使用高价模型处理简单任务、Agent重复发送整个代码库、默认选用高价模型而非性价比更高的替代品。优化策略强调严格管理上下文、启用提示词缓存、采用多模型路由（如主力用Kimi 2.6，关键任务用Opus）、创建SKILL.md文件避免知识重建、先分析工具调用再优化提示。未来，开发者月花费的巨大差距将取决于其上下文和模型路由的管理能力，而非纯粹的技术水平。",
+          "source": "X：Berry Xia (@berryxia)",
+          "publishedAtISO": "2026-05-12T23:13:43.000Z",
+          "publishedAt": "2026-05-13 07:13",
+          "url": "https://x.com/berryxia/status/2054339265103065156",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "AI Agent",
+            "AI 编程",
+            "长上下文"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "AI Agent 人群",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-429ebd56",
+          "title": "Anthropic 网络安全团队如何利用 Claude Code 构建威胁检测平台",
+          "summary": "Anthropic 检测平台工程团队技术负责人 Jackie Bow 运用 Claude Code 开发了 CLUE 威胁检测与响应平台。该平台通过自然语言界面连接内部系统，包含 CLUE Triage 自动初筛警报，整合上下文信息分配处置建议；以及 CLUE Investigate 支持分析师用自然语言查询日志，由 Claude 自动生成并执行查询，将数小时的人工分析缩短至几分钟。团队在一天内完成概念验证，一周内交付实现，显著提升了安全运营效率。",
+          "source": "Claude：Blog（网页）",
+          "publishedAtISO": "2026-05-12T18:54:46.908Z",
+          "publishedAt": "2026-05-13 02:54",
+          "url": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI 编程",
+            "长上下文",
+            "AI 安全"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "Anthropic 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-8cbe288b",
+          "title": "使用ADK构建可暂停、恢复且永不丢失上下文的长时运行AI智能体",
+          "summary": "本文探讨了如何从无状态聊天机器人升级为生产级AI智能体，以管理长达数天或数周的企业工作流程（如HR入职）。通过引入Agent Development Kit（ADK），其架构核心采用持久状态机和持久化会话存储，确保智能体在\"空闲时间\"或服务器重启时永不丢失上下文。系统利用事件驱动的Webhook和多智能体委托机制，实现在暂停期间\"休眠\"，并在唤醒后以高推理准确性恢复复杂任务，从而构建出具备韧性和可靠性的长时运行智能体系统。",
+          "source": "Google Developers Blog（RSS）",
+          "publishedAtISO": "2026-05-12T17:05:45.622Z",
+          "publishedAt": "2026-05-13 01:05",
+          "url": "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "AI Agent",
+            "长上下文"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "Google 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-37a60d6e",
+          "title": "AI取代人类？各方叙事背后的利益驱动",
+          "summary": "关于AI是否取代人类的讨论，实为不同利益方的叙事塑造：AI公司为高估值渲染替代能力，企业借AI解释裁员，教育机构制造焦虑，媒体追逐流量。吴恩达指出\"AI导致大规模失业\"是夸大其词，实际净增岗位远超替代，并以软件工程师招聘强劲、美国低失业率为证。他强调AI改变工作性质而非摧毁就业，揭露夸大叙事背后的商业动机--AI公司可通过对标员工薪资提高定价，企业则借AI掩饰疫情期间过度招聘。核心问题在于技术转型中个体如何应对，但这缺乏利益驱动力被认真探讨。",
+          "source": "X：小北 (@frxiaobei)",
+          "publishedAtISO": "2026-05-12T16:59:31.000Z",
+          "publishedAt": "2026-05-13 00:59",
+          "url": "https://x.com/frxiaobei/status/2054245095587959004",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "企业服务",
+            "SaaS 采购"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "AI取代人类 是什么",
+            "AI取代人类 怎么用",
+            "各方叙事背后的利益驱动 是什么",
+            "各方叙事背后的利益驱动 怎么用"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-5e6c1c8f",
+          "title": "开放模型生态的复合增长",
+          "summary": "中国AI生态呈现高参与度与开放优先特征，开源模型社区形成自我强化循环。开发者基于主流架构二次创新，国产开源模型下载量季度环比激增超200%。开放协作降低了技术门槛，推动应用层涌现大量行业解决方案，模型微调工具使用量同比大幅增长。生态参与者通过贡献代码、数据及优化方案，持续反哺核心模型迭代，构建了技术红利共享的复合增长网络。",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "publishedAtISO": "2026-05-12T15:54:47.000Z",
+          "publishedAt": "2026-05-12 23:54",
+          "url": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "AI 编程",
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "AI 编程 人群",
+            "开源模型 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "AI 编程 工具",
+            "AI 编程 方案",
+            "AI 编程 教程",
+            "AI 编程 应用场景"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-29cb7d57",
+          "title": "在Claude Code中安装官方插件调用Codex",
+          "summary": "本文介绍了在Claude Code中通过插件市场安装OpenAI官方Codex插件的具体步骤：添加库、安装插件、重新加载及配置。其核心实践动机源于HeavySkill论文提出的\"重思考\"方法，即让多个AI模型并行独立推理，再由一个模型（如Codex）作为主持人综合思路以提升回答质量。作者正依此构建由Claude Code推理、Codex主持的Skill。",
+          "source": "X：Vista (@vista8)",
+          "publishedAtISO": "2026-05-12T15:15:31.000Z",
+          "publishedAt": "2026-05-12 23:15",
+          "url": "https://x.com/vista8/status/2054218925005816077",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "OpenAI 关注者",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-9ff359b7",
+          "title": "财务团队如何使用 Codex",
+          "summary": "财务团队能够利用 Codex，基于实际工作输入构建管理层报告、报告包、差异桥接、模型检查和规划场景。该工具将自然语言指令转化为代码，自动化处理财务数据整合、差异分析和模型验证等复杂任务，从而提升报告生成效率与准确性，并支持快速创建多版本规划场景。",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "publishedAtISO": "2026-05-12T15:00:00.000Z",
+          "publishedAt": "2026-05-12 23:00",
+          "url": "https://openai.com/academy/how-finance-teams-use-codex",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "OpenAI 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-70dd08b2",
+          "title": "Dungeons & Desktops： 使用 GitHub Copilot CLI 构建一款程序化生成的 Roguelike 游戏",
+          "summary": "一位 GitHub 员工利用 GitHub Copilot CLI 开发了一款扩展程序，能够将任何代码库转换成一个独特的 Roguelike 风格地下城。该工具通过 AI 辅助的代码生成，实现了程序化关卡创建，展示了 Copilot CLI 在创意编码和游戏原型开发中的实际应用潜力。项目核心是自动解析代码结构并生成对应的可探索地下城布局。",
+          "source": "GitHub Blog",
+          "publishedAtISO": "2026-05-12T15:00:00.000Z",
+          "publishedAt": "2026-05-12 23:00",
+          "url": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Microsoft",
+            "GitHub"
+          ],
+          "technologies": [
+            "AI 编程",
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "Microsoft 关注者",
+            "GitHub 关注者"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "Microsoft 最新消息",
+            "Microsoft 怎么用",
+            "Microsoft 价格",
+            "Microsoft API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-5fccda79",
+          "title": "导出消费数据赋能AI Agent个性化服务",
+          "summary": "AI Agent需要用户消费上下文才能充当个人管家，作者调研了主流消费平台的订单导出方法。淘宝提供导出功能；京东无官方支持，但通过Codex定制Chrome插件实现一键导出，并开源在Github；闪购（饿了么）可申请导出Excel；美团外卖暂无方法；大众点评通过定制插件导出收藏列表。作者开源了京东和大众点评的导出工具，鼓励用户利用这些数据让AI Agent进行个性化分析，以提升服务实用性。",
+          "source": "X：Berry Xia (@berryxia)",
+          "publishedAtISO": "2026-05-12T12:26:08.000Z",
+          "publishedAt": "2026-05-12 20:26",
+          "url": "https://x.com/berryxia/status/2054176298579468338",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI",
+            "GitHub"
+          ],
+          "technologies": [
+            "AI Agent",
+            "AI 编程",
+            "长上下文",
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "OpenAI 关注者",
+            "GitHub 关注者"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-81c183f9",
+          "title": "结合GPT与Kling AI生成超写实F1直播截图",
+          "summary": "用户利用GPT image 2与Kling AI，根据详细提示词生成了一张模拟电视转播视角的超写实F1赛事直播截图。画面聚焦于一位在VIP围场/车队车库中的年轻女性，其身份特征从参考图像中被精确保留。她佩戴专业赛车耳机，神情紧张专注，画面包含\"FINAL LAP\"横幅、计时塔、直播标识等完整的转播图形元素。作品特别注重广播级细节，如压缩伪影、自然肤质和8K画质，旨在完美呈现如同真实电视截图的视觉效果。",
+          "source": "X：可灵 Kling AI (@Kling_ai)",
+          "publishedAtISO": "2026-05-12T10:04:46.000Z",
+          "publishedAt": "2026-05-12 18:04",
+          "url": "https://x.com/Kling_ai/status/2054140718776549704",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "图像生成"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "OpenAI 关注者",
+            "图像生成 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-7d507b90",
+          "title": "答案之外：信息呈现方式正成为AI智能层的一部分",
+          "summary": "信息的结构与呈现方式本身正成为AI智能层的关键。当前，让大语言模型以HTML格式输出，能提供比默认Markdown更丰富的视觉布局与交互性，是值得尝试的技巧。长远来看，人类虽偏好用音频输入，但视觉（图像/动画/视频）才是更理想的AI输出形式，因为大脑约三分之一皮层专司视觉处理。AI输出形态将沿\"原始文本→Markdown→HTML→交互式神经视频/模拟\"的路径演进，最终可能由扩散神经网络直接生成交互视频。同时，输入方式也需融合音频、文本、视频及手势等多模态交互。在人机输入输出深度融合方面，仍有巨大发展空间。",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "publishedAtISO": "2026-05-12T03:08:03.000Z",
+          "publishedAt": "2026-05-12 11:08",
+          "url": "https://x.com/SiliconFlowAI/status/2054035848866504953",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "多模态 AI",
+            "视频生成",
+            "图像生成"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "多模态 AI 人群",
+            "视频生成 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "多模态 AI 工具",
+            "多模态 AI 方案",
+            "多模态 AI 教程",
+            "多模态 AI 应用场景"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "label": "投放洞察",
+      "items": []
+    }
+  ],
+  "stats": {
+    "totalItems": 36,
+    "aiHotItems": 35,
+    "extendedItems": 1,
+    "categories": 5,
+    "sourceCount": 25
+  },
+  "sources": {
+    "primary": {
+      "name": "AI HOT",
+      "url": "https://aihot.virxact.com"
+    },
+    "extendedFeeds": [
+      {
+        "name": "OpenAI News",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/rss/"
+      },
+      {
+        "name": "Google Research Blog",
+        "url": "https://research.google/blog/rss/"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml"
+      },
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/feed/"
+      },
+      {
+        "name": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/rss/"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/"
+      },
+      {
+        "name": "arXiv cs.AI",
+        "url": "http://export.arxiv.org/rss/cs.AI"
+      },
+      {
+        "name": "arXiv cs.CL",
+        "url": "http://export.arxiv.org/rss/cs.CL"
+      }
+    ],
+    "holidayCalendar": {
+      "name": "国务院办公厅关于2026年部分节假日安排的通知",
+      "url": "https://www.gov.cn/zhengce/content/202511/content_7037660.htm"
+    }
+  }
+}
