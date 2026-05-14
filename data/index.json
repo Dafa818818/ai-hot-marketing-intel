@@ -1,7 +1,21 @@
 {
-  "latest": "2026-05-13",
-  "generatedAtISO": "2026-05-13T04:34:53.342Z",
+  "latest": "2026-05-14",
+  "generatedAtISO": "2026-05-14T02:59:34.351Z",
   "archives": [
+    {
+      "id": "2026-05-14",
+      "title": "AI 热点与营销投放情报",
+      "updatedAtBJT": "2026-05-14 09:00",
+      "coverageLabel": "本期覆盖：2026-05-13 09:00 至 2026-05-14 09:00",
+      "stats": {
+        "totalItems": 45,
+        "aiHotItems": 35,
+        "extendedItems": 10,
+        "categories": 5,
+        "sourceCount": 27
+      },
+      "file": "data/archive/2026-05-14.json"
+    },
     {
       "id": "2026-05-13",
       "title": "AI 热点与营销投放情报",
