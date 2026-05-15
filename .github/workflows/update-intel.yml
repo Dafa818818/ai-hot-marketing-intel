@@ -2,9 +2,10 @@ name: Update AI Intelligence
 
 on:
   schedule:
-    - cron: "0 1 * * *"
-    - cron: "17 1 * * *"
-    - cron: "47 1 * * *"
+    # Beijing time 09:07-12:52. GitHub scheduled jobs can be delayed or skipped
+    # during busy periods, so we retry through the morning. The update script is
+    # idempotent and exits without changes after the first successful daily run.
+    - cron: "7,22,37,52 1-4 * * *"
   workflow_dispatch:
 
 permissions:
