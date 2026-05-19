@@ -2,16 +2,20 @@ name: Update AI Intelligence
 
 on:
   schedule:
-    # Beijing time 09:07-12:52. GitHub scheduled jobs can be delayed or skipped
-    # during busy periods, so we retry through the morning. The update script is
-    # idempotent and exits without changes after the first successful daily run.
-    - cron: "7,22,37,52 1-4 * * *"
+    # Beijing time 08:03-15:59 on weekdays. GitHub scheduled jobs can be delayed
+    # or skipped during busy periods, so we retry often. Runs before 09:00 only
+    # backfill a missed previous issue; after a successful daily run the script
+    # exits without changes.
+    - cron: "3,11,19,27,35,43,51,59 0-7 * * 1-5"
   workflow_dispatch:
 
 permissions:
   contents: write
   pages: write
   id-token: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 concurrency:
   group: update-ai-intelligence
@@ -81,10 +85,20 @@ jobs:
 
       - name: Sync to Notion
         if: steps.commit.outputs.changed == 'true'
+        timeout-minutes: 8
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DAILY_DATA_SOURCE_ID: ${{ secrets.NOTION_DAILY_DATA_SOURCE_ID }}
           NOTION_ITEMS_DATA_SOURCE_ID: ${{ secrets.NOTION_ITEMS_DATA_SOURCE_ID }}
           NOTION_KEYWORDS_DATA_SOURCE_ID: ${{ secrets.NOTION_KEYWORDS_DATA_SOURCE_ID }}
           NOTION_SKIP_IF_MISSING: "1"
-        run: node scripts/sync-notion.mjs
+        run: |
+          for attempt in 1 2 3; do
+            if node scripts/sync-notion.mjs; then
+              exit 0
+            fi
+            echo "Notion sync attempt ${attempt} failed; retrying."
+            sleep $((attempt * 20))
+          done
+          echo "Notion sync failed after retries. Page data and GitHub Pages deployment are already complete."
+          exit 0
