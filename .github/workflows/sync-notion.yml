@@ -1,10 +1,17 @@
 name: Sync AI Intelligence to Notion
 
 on:
+  schedule:
+    # Beijing time 10:30, 13:30, and 16:30 on weekdays. This retries Notion
+    # after the page update, without blocking the public dashboard.
+    - cron: "30 2,5,8 * * 1-5"
   workflow_dispatch:
 
 permissions:
   contents: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   sync:
@@ -24,4 +31,12 @@ jobs:
           NOTION_DAILY_DATA_SOURCE_ID: ${{ secrets.NOTION_DAILY_DATA_SOURCE_ID }}
           NOTION_ITEMS_DATA_SOURCE_ID: ${{ secrets.NOTION_ITEMS_DATA_SOURCE_ID }}
           NOTION_KEYWORDS_DATA_SOURCE_ID: ${{ secrets.NOTION_KEYWORDS_DATA_SOURCE_ID }}
-        run: node scripts/sync-notion.mjs
+        run: |
+          for attempt in 1 2 3; do
+            if node scripts/sync-notion.mjs; then
+              exit 0
+            fi
+            echo "Notion sync attempt ${attempt} failed; retrying."
+            sleep $((attempt * 20))
+          done
+          exit 1
