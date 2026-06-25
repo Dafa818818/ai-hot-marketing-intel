@@ -1,7 +1,21 @@
 {
-  "latest": "2026-06-24",
-  "generatedAtISO": "2026-06-24T01:05:28.934Z",
+  "latest": "2026-06-25",
+  "generatedAtISO": "2026-06-25T01:05:27.600Z",
   "archives": [
+    {
+      "id": "2026-06-25",
+      "title": "AI 热点与营销投放情报",
+      "updatedAtBJT": "2026-06-25 09:00",
+      "coverageLabel": "本期覆盖：2026-06-24 09:00 至 2026-06-25 09:00",
+      "stats": {
+        "totalItems": 30,
+        "aiHotItems": 20,
+        "extendedItems": 10,
+        "categories": 5,
+        "sourceCount": 18
+      },
+      "file": "data/archive/2026-06-25.json"
+    },
     {
       "id": "2026-06-24",
       "title": "AI 热点与营销投放情报",
@@ -57,20 +71,6 @@
         "sourceCount": 20
       },
       "file": "data/archive/2026-06-18.json"
-    },
-    {
-      "id": "2026-06-17",
-      "title": "AI 热点与营销投放情报",
-      "updatedAtBJT": "2026-06-17 09:00",
-      "coverageLabel": "本期覆盖：2026-06-16 09:00 至 2026-06-17 09:00",
-      "stats": {
-        "totalItems": 34,
-        "aiHotItems": 24,
-        "extendedItems": 10,
-        "categories": 5,
-        "sourceCount": 17
-      },
-      "file": "data/archive/2026-06-17.json"
     }
   ]
 }
