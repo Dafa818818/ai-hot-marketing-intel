@@ -1,28 +1,28 @@
 {
-  "id": "2026-10-14",
+  "id": "2026-10-15",
   "title": "AI 热点与营销投放情报",
-  "updatedAtISO": "2026-10-14T01:00:00.000Z",
-  "updatedAtBJT": "2026-10-14 09:00",
+  "updatedAtISO": "2026-10-15T01:00:00.000Z",
+  "updatedAtBJT": "2026-10-15 09:00",
   "autoStatus": "本期内容已于北京时间 09:00 自动更新",
   "coverage": {
-    "startISO": "2026-10-13T01:00:00.000Z",
-    "endISO": "2026-10-14T01:00:00.000Z",
-    "startBJT": "2026-10-13 09:00",
-    "endBJT": "2026-10-14 09:00",
-    "label": "本期覆盖：2026-10-13 09:00 至 2026-10-14 09:00"
+    "startISO": "2026-10-14T01:00:00.000Z",
+    "endISO": "2026-10-15T01:00:00.000Z",
+    "startBJT": "2026-10-14 09:00",
+    "endBJT": "2026-10-15 09:00",
+    "label": "本期覆盖：2026-10-14 09:00 至 2026-10-15 09:00"
   },
   "summary": {
-    "headline": "本期收录 30 条热点，其中 AI HOT 精选 20 条，扩展公开来源 10 条。",
+    "headline": "本期收录 19 条热点，其中 AI HOT 精选 14 条，扩展公开来源 5 条。",
     "bullets": [
-      "重点分布：论文研究 11 条、行业动态 6 条、产品发布/更新 6 条。",
-      "高频品牌/产品：Google、OpenAI、Meta、阿里云、Anthropic。",
-      "高频技术线索：AI Agent、AI 工具、大模型、多模态 AI、AI 安全。"
+      "重点分布：行业动态 5 条、模型发布/更新 5 条、技巧与观点 5 条。",
+      "高频品牌/产品：OpenAI、Google、Anthropic、Meta、阿里云。",
+      "高频技术线索：AI Agent、AI 编程、长上下文、AI 安全、AI 搜索。"
     ],
     "watchlist": [
-      "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-      "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
-      "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-      "Character.ai 破产文件显示 AI 商业模式难以为继"
+      "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+      "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+      "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+      "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值"
     ],
     "marketingSignals": [
       "产品更新适合做“上手教程、替代方案、场景清单”型内容。",
@@ -33,36 +33,53 @@
   },
   "keywordPool": {
     "flowHot": [
-      "科研工具",
+      "OpenAI 关注者",
       "模型评测",
       "平台生态",
+      "企业 AI 选型",
       "企业数字化",
-      "多模态研究",
-      "开源基准",
-      "算法创新",
-      "研究前沿",
-      "Agent 评估",
-      "AI 论文",
-      "企业软件",
-      "效率工具",
-      "AI 工具",
+      "成本优化",
+      "大模型更新",
+      "低成本推理",
+      "多模态能力",
+      "工作流优化",
+      "国产大模型",
+      "开发者经验",
+      "开源模型",
+      "内容生产",
       "融资并购",
       "数据安全",
+      "提示词工程",
+      "运营方法论",
       "AI 监管合规",
+      "AI 开发者",
       "AI 商业化",
+      "AI 使用技巧",
+      "AI 提效",
       "AI 芯片",
       "AI 行业动态",
-      "创意生产",
-      "内容创作",
-      "运营自动化",
-      "智能办公",
-      "AI 工作流",
       "AI Agent 人群",
-      "企业 AI 选型",
-      "AI 工具 人群",
-      "Google 关注者"
+      "Google 关注者",
+      "科研工具"
     ],
     "searchValue": [
+      "OpenAI 价格",
+      "OpenAI API",
+      "大模型选型",
+      "开源模型部署",
+      "模型 API",
+      "模型价格",
+      "企业大模型方案",
+      "提示词教程",
+      "中文能力对比",
+      "AI 自动化教程",
+      "Google 价格",
+      "Google API",
+      "阿里云 价格",
+      "阿里云 API",
+      "开源模型 方案",
+      "开源模型 工具",
+      "开源模型 教程",
       "企业 AI 工具",
       "AI 产品教程",
       "AI 工具推荐",
@@ -70,86 +87,68 @@
       "AI Agent 方案",
       "AI Agent 工具",
       "AI Agent 教程",
-      "大模型选型",
-      "开源模型部署",
-      "模型 API",
-      "模型价格",
-      "企业大模型方案",
-      "中文能力对比",
-      "OpenAI 价格",
-      "OpenAI API",
-      "多模态 AI 方案",
-      "多模态 AI 工具",
-      "多模态 AI 教程",
-      "Google 价格",
-      "Google API",
-      "视频生成 方案",
-      "视频生成 工具",
-      "视频生成 教程",
-      "AI 工具 方案",
-      "AI 工具 工具",
-      "AI 工具 教程",
-      "AI 工具 应用场景",
-      "Meta 价格"
+      "Anthropic 价格",
+      "Anthropic API",
+      "Meta 价格",
+      "Meta API"
     ],
     "longTail": [
-      "最新 AI 论文",
-      "Agent 论文",
-      "AI 商业化案例",
-      "生成式 AI 合规",
-      "企业 AI 工具",
-      "AI 办公自动化",
-      "AI 产品教程",
-      "AI 工作流搭建",
-      "AI 内容创作工具",
-      "AI Agent 方案",
-      "AI Agent 工具",
-      "AI Agent 教程",
-      "AI Agent 应用场景",
       "OpenAI 怎么用",
       "OpenAI 最新消息",
       "OpenAI 价格",
       "OpenAI API",
+      "AI 工作流案例",
+      "AI 商业化案例",
+      "生成式 AI 合规",
+      "提示词教程",
+      "AI 自动化教程",
+      "最新 AI 论文",
       "Google 怎么用",
       "Google 最新消息",
-      "多模态 AI 方案",
-      "多模态 AI 工具",
-      "多模态 AI 教程",
-      "多模态 AI 应用场景",
+      "Agent 论文",
       "Google 价格",
       "Google API",
+      "40 怎么用",
+      "阿里云 怎么用",
+      "阿里云 最新消息",
+      "位总检察长介入 怎么用",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
       "Meta 怎么用",
       "Meta 最新消息",
-      "视频生成 教程"
+      "开源模型 教程",
+      "开源模型 应用场景",
+      "企业 AI 工具",
+      "位总检察长介入 是什么",
+      "AI 办公自动化"
     ],
     "brandProduct": [
-      "Google",
       "OpenAI",
       "OpenAI 价格",
       "OpenAI 怎么用",
       "OpenAI 最新消息",
       "OpenAI API",
+      "Google",
+      "Anthropic",
       "Google 价格",
       "Google 怎么用",
       "Google 最新消息",
       "Google API",
       "Meta",
-      "Meta 价格",
-      "Meta 怎么用",
-      "Meta 最新消息",
-      "Meta API",
       "阿里云",
       "阿里云 价格",
       "阿里云 怎么用",
       "阿里云 最新消息",
       "阿里云 API",
-      "Anthropic",
-      "GitHub",
-      "Microsoft",
-      "Microsoft 价格",
-      "Microsoft 怎么用",
-      "Microsoft 最新消息",
-      "Microsoft API"
+      "Anthropic 价格",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
+      "Anthropic API",
+      "Meta 价格",
+      "Meta 怎么用",
+      "Meta 最新消息",
+      "Meta API",
+      "xAI"
     ]
   },
   "groups": [
@@ -158,100 +157,13 @@
       "label": "模型发布/更新",
       "items": [
         {
-          "id": "item-338523bf",
-          "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-          "summary": "Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。",
-          "source": "X：Arena (@arena)",
-          "publishedAtISO": "2026-10-13T21:27:15.000Z",
-          "publishedAt": "2026-10-14 05:27",
-          "url": "https://x.com/arena/status/2110120205464846828",
-          "category": "ai-models",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "Meta"
-          ],
-          "technologies": [
-            "大模型"
-          ],
-          "flowTags": [
-            "大模型更新",
-            "模型评测",
-            "AI 开发者",
-            "企业 AI 选型",
-            "国产大模型",
-            "开源模型",
-            "低成本推理",
-            "多模态能力",
-            "Meta 关注者",
-            "大模型 人群"
-          ],
-          "searchKeywords": [
-            "大模型选型",
-            "模型 API",
-            "模型价格",
-            "中文能力对比",
-            "开源模型部署",
-            "企业大模型方案",
-            "Meta 最新消息",
-            "Meta 怎么用",
-            "Meta 价格",
-            "Meta API"
-          ],
-          "marketingAngle": "可围绕Meta相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
-        },
-        {
-          "id": "item-a38c5448",
-          "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
-          "summary": "Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "publishedAtISO": "2026-10-13T18:00:33.000Z",
-          "publishedAt": "2026-10-14 02:00",
-          "url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
-          "category": "ai-models",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "OpenAI",
-            "Google"
-          ],
-          "technologies": [
-            "大模型"
-          ],
-          "flowTags": [
-            "大模型更新",
-            "模型评测",
-            "AI 开发者",
-            "企业 AI 选型",
-            "国产大模型",
-            "开源模型",
-            "低成本推理",
-            "多模态能力",
-            "OpenAI 关注者",
-            "Google 关注者"
-          ],
-          "searchKeywords": [
-            "大模型选型",
-            "模型 API",
-            "模型价格",
-            "中文能力对比",
-            "开源模型部署",
-            "企业大模型方案",
-            "OpenAI 最新消息",
-            "OpenAI 怎么用",
-            "OpenAI 价格",
-            "OpenAI API"
-          ],
-          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
-        },
-        {
-          "id": "item-d3dc22ab",
-          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
-          "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
-          "source": "Google Blog：AI（RSS）",
-          "publishedAtISO": "2026-10-13T16:00:00.000Z",
-          "publishedAt": "2026-10-14 00:00",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "id": "item-90b0641",
+          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+          "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
+          "source": "X：Gemini (@GeminiApp)",
+          "publishedAtISO": "2026-10-14T22:02:05.000Z",
+          "publishedAt": "2026-10-15 06:02",
+          "url": "https://x.com/GeminiApp/status/2110491358498865638",
           "category": "ai-models",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
@@ -288,20 +200,23 @@
           "marketingAngle": "可围绕Google相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
         },
         {
-          "id": "item-71c3b9e5",
-          "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-          "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "publishedAtISO": "2026-10-13T10:29:21.000Z",
-          "publishedAt": "2026-10-13 18:29",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
+          "id": "item-ac9bb791",
+          "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+          "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "publishedAtISO": "2026-10-14T21:32:41.000Z",
+          "publishedAt": "2026-10-15 05:32",
+          "url": "https://x.com/elonmusk/status/2110483960312799675",
           "category": "ai-models",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
-          "brands": [],
+          "brands": [
+            "OpenAI",
+            "Google",
+            "xAI"
+          ],
           "technologies": [
-            "多模态 AI",
-            "开源模型"
+            "模型评测"
           ],
           "flowTags": [
             "大模型更新",
@@ -312,8 +227,8 @@
             "开源模型",
             "低成本推理",
             "多模态能力",
-            "多模态 AI 人群",
-            "开源模型 人群"
+            "OpenAI 关注者",
+            "Google 关注者"
           ],
           "searchKeywords": [
             "大模型选型",
@@ -322,12 +237,144 @@
             "中文能力对比",
             "开源模型部署",
             "企业大模型方案",
-            "多模态 AI 工具",
-            "多模态 AI 方案",
-            "多模态 AI 教程",
-            "多模态 AI 应用场景"
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
           ],
-          "marketingAngle": "可围绕模型发布/更新的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-48663e21",
+          "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+          "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
+          "source": "X：Arena (@arena)",
+          "publishedAtISO": "2026-10-14T20:19:17.000Z",
+          "publishedAt": "2026-10-15 04:19",
+          "url": "https://x.com/arena/status/2110465487914295770",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Meta"
+          ],
+          "technologies": [
+            "AI Agent",
+            "模型评测"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "Meta 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "Meta 最新消息",
+            "Meta 怎么用",
+            "Meta 价格",
+            "Meta API"
+          ],
+          "marketingAngle": "可围绕Meta相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-f7af7eac",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "summary": "OpenAI News 发布了与模型发布/更新相关的新动态。原文摘要提到：See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+          "source": "OpenAI News",
+          "publishedAtISO": "2026-10-14T12:00:00.000Z",
+          "publishedAt": "2026-10-14 20:00",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "category": "ai-models",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI Agent"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "OpenAI 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-407843ab",
+          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "publishedAtISO": "2026-10-14T01:02:59.000Z",
+          "publishedAt": "2026-10-14 09:02",
+          "url": "https://x.com/Khazix0918/status/2110174495420064055",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI",
+            "Anthropic",
+            "Google"
+          ],
+          "technologies": [
+            "大模型"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "OpenAI 关注者",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
         }
       ]
     },
@@ -336,63 +383,23 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "item-18af040d",
-          "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
-          "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
-          "source": "Comfy Blog",
-          "publishedAtISO": "2026-10-13T19:41:39.000Z",
-          "publishedAt": "2026-10-14 03:41",
-          "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
-          "category": "ai-products",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [],
-          "technologies": [
-            "视频生成",
-            "图像生成"
-          ],
-          "flowTags": [
-            "AI 工具",
-            "效率工具",
-            "智能办公",
-            "内容创作",
-            "运营自动化",
-            "AI 工作流",
-            "创意生产",
-            "企业软件",
-            "视频生成 人群",
-            "图像生成 人群"
-          ],
-          "searchKeywords": [
-            "AI 工具推荐",
-            "AI 办公自动化",
-            "AI 内容创作工具",
-            "AI 产品教程",
-            "AI 工作流搭建",
-            "企业 AI 工具",
-            "视频生成 工具",
-            "视频生成 方案",
-            "视频生成 教程",
-            "视频生成 应用场景"
-          ],
-          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
-        },
-        {
-          "id": "item-f20874c0",
-          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-          "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "publishedAtISO": "2026-10-13T16:26:15.000Z",
-          "publishedAt": "2026-10-14 00:26",
-          "url": "https://x.com/OpenRouter/status/2110044453977403412",
+          "id": "item-73ccf530",
+          "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+          "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+          "source": "Lovable Blog",
+          "publishedAtISO": "2026-10-14T12:50:00.000Z",
+          "publishedAt": "2026-10-14 20:50",
+          "url": "https://lovable.dev/blog/introducing-growth-tools",
           "category": "ai-products",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
           "brands": [
-            "Google"
+            "Google",
+            "Meta"
           ],
           "technologies": [
-            "AI 工具"
+            "长上下文",
+            "AI 搜索"
           ],
           "flowTags": [
             "AI 工具",
@@ -404,7 +411,7 @@
             "创意生产",
             "企业软件",
             "Google 关注者",
-            "AI 工具 人群"
+            "Meta 关注者"
           ],
           "searchKeywords": [
             "AI 工具推荐",
@@ -419,171 +426,6 @@
             "Google API"
           ],
           "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
-        },
-        {
-          "id": "item-dc8c4c59",
-          "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
-          "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
-          "source": "Apple：Newsroom（RSS）",
-          "publishedAtISO": "2026-10-13T12:59:16.617Z",
-          "publishedAt": "2026-10-13 20:59",
-          "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-          "category": "ai-products",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [],
-          "technologies": [
-            "AI 工具"
-          ],
-          "flowTags": [
-            "AI 工具",
-            "效率工具",
-            "智能办公",
-            "内容创作",
-            "运营自动化",
-            "AI 工作流",
-            "创意生产",
-            "企业软件",
-            "AI 工具 人群"
-          ],
-          "searchKeywords": [
-            "AI 工具推荐",
-            "AI 办公自动化",
-            "AI 内容创作工具",
-            "AI 产品教程",
-            "AI 工作流搭建",
-            "企业 AI 工具",
-            "AI 工具 工具",
-            "AI 工具 方案",
-            "AI 工具 教程",
-            "AI 工具 应用场景"
-          ],
-          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
-        },
-        {
-          "id": "item-87a0ba87",
-          "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
-          "summary": "LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。",
-          "source": "LangChain：Blog（RSS）",
-          "publishedAtISO": "2026-10-13T12:59:12.000Z",
-          "publishedAt": "2026-10-13 20:59",
-          "url": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
-          "category": "ai-products",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [],
-          "technologies": [
-            "AI Agent",
-            "AI 搜索"
-          ],
-          "flowTags": [
-            "AI 工具",
-            "效率工具",
-            "智能办公",
-            "内容创作",
-            "运营自动化",
-            "AI 工作流",
-            "创意生产",
-            "企业软件",
-            "AI Agent 人群",
-            "AI 搜索 人群"
-          ],
-          "searchKeywords": [
-            "AI 工具推荐",
-            "AI 办公自动化",
-            "AI 内容创作工具",
-            "AI 产品教程",
-            "AI 工作流搭建",
-            "企业 AI 工具",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
-          ],
-          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
-        },
-        {
-          "id": "item-c1680468",
-          "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
-          "summary": "NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。",
-          "source": "NVIDIA Blog（RSS）",
-          "publishedAtISO": "2026-10-13T12:00:49.000Z",
-          "publishedAt": "2026-10-13 20:00",
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-          "category": "ai-products",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [],
-          "technologies": [
-            "AI 工具"
-          ],
-          "flowTags": [
-            "AI 工具",
-            "效率工具",
-            "智能办公",
-            "内容创作",
-            "运营自动化",
-            "AI 工作流",
-            "创意生产",
-            "企业软件",
-            "AI 工具 人群"
-          ],
-          "searchKeywords": [
-            "AI 工具推荐",
-            "AI 办公自动化",
-            "AI 内容创作工具",
-            "AI 产品教程",
-            "AI 工作流搭建",
-            "企业 AI 工具",
-            "AI 工具 工具",
-            "AI 工具 方案",
-            "AI 工具 教程",
-            "AI 工具 应用场景"
-          ],
-          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
-        },
-        {
-          "id": "item-7eb4b2cb",
-          "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-          "summary": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。",
-          "source": "公众号：千问APP（阿里）",
-          "publishedAtISO": "2026-10-13T08:06:57.000Z",
-          "publishedAt": "2026-10-13 16:06",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
-          "category": "ai-products",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "阿里云"
-          ],
-          "technologies": [
-            "AI 工具"
-          ],
-          "flowTags": [
-            "AI 工具",
-            "效率工具",
-            "智能办公",
-            "内容创作",
-            "运营自动化",
-            "AI 工作流",
-            "创意生产",
-            "企业软件",
-            "阿里云 关注者",
-            "AI 工具 人群"
-          ],
-          "searchKeywords": [
-            "AI 工具推荐",
-            "AI 办公自动化",
-            "AI 内容创作工具",
-            "AI 产品教程",
-            "AI 工作流搭建",
-            "企业 AI 工具",
-            "阿里云 最新消息",
-            "阿里云 怎么用",
-            "阿里云 价格",
-            "阿里云 API"
-          ],
-          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
         }
       ]
     },
@@ -592,17 +434,19 @@
       "label": "行业动态",
       "items": [
         {
-          "id": "item-384d2883",
-          "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
-          "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
-          "source": "404 Media（RSS）",
-          "publishedAtISO": "2026-10-13T20:06:53.000Z",
-          "publishedAt": "2026-10-14 04:06",
-          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+          "id": "item-2b594420",
+          "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+          "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
+          "source": "IT之家·人工智能",
+          "publishedAtISO": "2026-10-14T23:39:08.393Z",
+          "publishedAt": "2026-10-15 07:39",
+          "url": "https://www.ithome.com/1/013/160.htm",
           "category": "industry",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
-          "brands": [],
+          "brands": [
+            "OpenAI"
+          ],
           "technologies": [],
           "flowTags": [
             "AI 行业动态",
@@ -613,8 +457,7 @@
             "AI 商业化",
             "平台生态",
             "数据安全",
-            "营销增长",
-            "广告投放"
+            "OpenAI 关注者"
           ],
           "searchKeywords": [
             "AI 行业趋势",
@@ -623,29 +466,29 @@
             "AI 商业化案例",
             "AI 芯片公司",
             "生成式 AI 合规",
-            "Character 是什么",
-            "Character 怎么用",
-            "ai 是什么",
-            "ai 怎么用"
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
           ],
           "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
         },
         {
-          "id": "item-8ea97200",
-          "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-          "summary": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "publishedAtISO": "2026-10-13T19:48:42.000Z",
-          "publishedAt": "2026-10-14 03:48",
-          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+          "id": "item-378a2bbf",
+          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
+          "source": "IT之家·人工智能",
+          "publishedAtISO": "2026-10-14T23:13:18.290Z",
+          "publishedAt": "2026-10-15 07:13",
+          "url": "https://www.ithome.com/1/013/154.htm",
           "category": "industry",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
           "brands": [
-            "OpenAI"
+            "OpenAI",
+            "Anthropic"
           ],
           "technologies": [
-            "AI 编程",
             "AI 安全",
             "AI 办公"
           ],
@@ -659,7 +502,7 @@
             "平台生态",
             "数据安全",
             "OpenAI 关注者",
-            "AI 编程 人群"
+            "Anthropic 关注者"
           ],
           "searchKeywords": [
             "AI 行业趋势",
@@ -676,55 +519,13 @@
           "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
         },
         {
-          "id": "item-d612a354",
-          "title": "XBOW 团队借助 OpenAI GPT-5.6 Sol 获 Google Chrome 25 万美元全链漏洞赏金",
-          "summary": "XBOW 团队使用 OpenAI 的 GPT-5.6 Sol 辅助，在 6 天内以 4 万美元算力构建出 Chrome 全链漏洞，获得 Google 25 万美元赏金，这是 Google 第二次就 Chrome 全链漏洞发放赏金，也是 2026 年新规则下的首次。受影响范围为 Windows 上的 Chrome，作者称过去类似漏洞需约 6 个月构建，并提醒用户在出现 Update 按钮时及时重启 Chrome。",
-          "source": "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
-          "publishedAtISO": "2026-10-13T19:15:03.000Z",
-          "publishedAt": "2026-10-14 03:15",
-          "url": "https://x.com/reach_vb/status/2110086935733833893",
-          "category": "industry",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "OpenAI",
-            "Google"
-          ],
-          "technologies": [],
-          "flowTags": [
-            "AI 行业动态",
-            "融资并购",
-            "AI 监管合规",
-            "AI 芯片",
-            "企业数字化",
-            "AI 商业化",
-            "平台生态",
-            "数据安全",
-            "OpenAI 关注者",
-            "Google 关注者"
-          ],
-          "searchKeywords": [
-            "AI 行业趋势",
-            "AI 监管政策",
-            "AI 融资新闻",
-            "AI 商业化案例",
-            "AI 芯片公司",
-            "生成式 AI 合规",
-            "OpenAI 最新消息",
-            "OpenAI 怎么用",
-            "OpenAI 价格",
-            "OpenAI API"
-          ],
-          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
-        },
-        {
-          "id": "item-be0d1d1d",
-          "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-          "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。",
-          "source": "X：ElevenLabs (@elevenlabs)",
-          "publishedAtISO": "2026-10-13T15:58:09.000Z",
-          "publishedAt": "2026-10-13 23:58",
-          "url": "https://x.com/ElevenLabs/status/2110037384192774210",
+          "id": "item-a995be43",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+          "source": "The Verge：AI（RSS）",
+          "publishedAtISO": "2026-10-14T18:47:54.000Z",
+          "publishedAt": "2026-10-15 02:47",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
           "category": "industry",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
@@ -747,27 +548,29 @@
             "AI 商业化案例",
             "AI 芯片公司",
             "生成式 AI 合规",
-            "ElevenLabs 是什么",
-            "ElevenLabs 怎么用",
-            "AI 是什么",
-            "AI 怎么用"
+            "40 是什么",
+            "40 怎么用",
+            "位总检察长介入 是什么",
+            "位总检察长介入 怎么用"
           ],
           "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
         },
         {
-          "id": "item-760ee07d",
-          "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-          "summary": "Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。",
-          "source": "TechCrunch：AI（RSS）",
-          "publishedAtISO": "2026-10-13T12:23:42.000Z",
-          "publishedAt": "2026-10-13 20:23",
-          "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+          "id": "item-7f72213",
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "summary": "OpenAI News 发布了与行业动态相关的新动态。原文摘要提到：Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches i…",
+          "source": "OpenAI News",
+          "publishedAtISO": "2026-10-14T07:00:00.000Z",
+          "publishedAt": "2026-10-14 15:00",
+          "url": "https://openai.com/index/block-ai-powered-security",
           "category": "industry",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [],
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [
+            "OpenAI"
+          ],
           "technologies": [
-            "视频生成"
+            "AI 安全"
           ],
           "flowTags": [
             "AI 行业动态",
@@ -778,7 +581,8 @@
             "AI 商业化",
             "平台生态",
             "数据安全",
-            "视频生成 人群"
+            "OpenAI 关注者",
+            "AI 安全 人群"
           ],
           "searchKeywords": [
             "AI 行业趋势",
@@ -787,28 +591,31 @@
             "AI 商业化案例",
             "AI 芯片公司",
             "生成式 AI 合规",
-            "视频生成 工具",
-            "视频生成 方案",
-            "视频生成 教程",
-            "视频生成 应用场景"
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
           ],
-          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+          "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
         },
         {
-          "id": "item-3ef3bfff",
-          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
-          "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "publishedAtISO": "2026-10-13T01:09:37.000Z",
-          "publishedAt": "2026-10-13 09:09",
-          "url": "https://x.com/demishassabis/status/2109813775377563908",
+          "id": "item-d01ff9f5",
+          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+          "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "publishedAtISO": "2026-10-14T02:58:37.000Z",
+          "publishedAt": "2026-10-14 10:58",
+          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
           "category": "industry",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
           "brands": [
+            "OpenAI",
             "Google"
           ],
-          "technologies": [],
+          "technologies": [
+            "AI 编程"
+          ],
           "flowTags": [
             "AI 行业动态",
             "融资并购",
@@ -818,6 +625,7 @@
             "AI 商业化",
             "平台生态",
             "数据安全",
+            "OpenAI 关注者",
             "Google 关注者"
           ],
           "searchKeywords": [
@@ -827,10 +635,10 @@
             "AI 商业化案例",
             "AI 芯片公司",
             "生成式 AI 合规",
-            "Google 最新消息",
-            "Google 怎么用",
-            "Google 价格",
-            "Google API"
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
           ],
           "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
         }
@@ -841,23 +649,108 @@
       "label": "论文研究",
       "items": [
         {
-          "id": "item-9c1e09e8",
-          "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
-          "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
-          "source": "Johann Rehberger / Embrace The Red（RSS）",
-          "publishedAtISO": "2026-10-13T22:00:40.000Z",
-          "publishedAt": "2026-10-14 06:00",
-          "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+          "id": "item-d5ab8d87",
+          "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+          "summary": "Google Research Blog 发布了与论文研究相关的新动态。原文摘要提到：Earth AI",
+          "source": "Google Research Blog",
+          "publishedAtISO": "2026-10-14T16:14:00.000Z",
+          "publishedAt": "2026-10-15 00:14",
+          "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "AI Agent",
+            "AI 搜索"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "Google 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-a6d5bcd1",
+          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+          "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
+          "source": "MIT News（RSS）",
+          "publishedAtISO": "2026-10-14T15:00:00.000Z",
+          "publishedAt": "2026-10-14 23:00",
+          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
           "category": "paper",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "开源模型 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "开源模型 工具",
+            "开源模型 方案",
+            "开源模型 教程",
+            "开源模型 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-2c63dbdd",
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "summary": "OpenAI News 发布了与论文研究相关的新动态。原文摘要提到：With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days …",
+          "source": "OpenAI News",
+          "publishedAtISO": "2026-10-14T07:00:00.000Z",
+          "publishedAt": "2026-10-14 15:00",
+          "url": "https://openai.com/index/third-moment-research",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
           "brands": [
-            "Microsoft",
-            "GitHub"
+            "OpenAI"
           ],
           "technologies": [
+            "AI Agent",
             "AI 编程",
-            "MCP"
+            "AI 安全",
+            "AI 搜索"
           ],
           "flowTags": [
             "AI 论文",
@@ -868,322 +761,7 @@
             "多模态研究",
             "Agent 评估",
             "开源基准",
-            "Microsoft 关注者",
-            "GitHub 关注者"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "Microsoft 最新消息",
-            "Microsoft 怎么用",
-            "Microsoft 价格",
-            "Microsoft API"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-6829f5e",
-          "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.12659v1 Announce Type: new Abstract: Data-centric scaling of RLVR has focused on collecting or generating ve…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2610.12659",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "MagicBeanSta 是什么",
-            "MagicBeanSta 怎么用",
-            "lk 是什么",
-            "lk 怎么用"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-3a58f6d4",
-          "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.12914v1 Announce Type: new Abstract: Vision-language-action (VLA) models have shown strong promise in roboti…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2610.12914",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "多模态 AI"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "多模态 AI 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "多模态 AI 工具",
-            "多模态 AI 方案",
-            "多模态 AI 教程",
-            "多模态 AI 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-552d0f00",
-          "title": "AdaC-GRPO: Towards Mastering Long-Horizon Visual Sudoku Puzzles via Adaptive Curriculum Learning",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.13184v1 Announce Type: new Abstract: While reinforcement learning with verifiable reward (RLVR) enhances rea…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2610.13184",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "AdaC 是什么",
-            "AdaC 怎么用",
-            "GRPO 是什么",
-            "GRPO 怎么用"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-3336d9b0",
-          "title": "RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.13399v1 Announce Type: new Abstract: Long-term personalized tutoring requires language models to translate a…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2610.13399",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "RegulaTutor 是什么",
-            "RegulaTutor 怎么用",
-            "Theory 是什么",
-            "Theory 怎么用"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-ee5e9986",
-          "title": "Unsupervised Multimodal Reward Modeling",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.12707v1 Announce Type: cross Abstract: Vision-language reward models are trained on annotated preference pai…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2610.12707",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "多模态 AI"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "多模态 AI 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "多模态 AI 工具",
-            "多模态 AI 方案",
-            "多模态 AI 教程",
-            "多模态 AI 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-b624c61e",
-          "title": "When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2605.11928v2 Announce Type: replace Abstract: Tool-use language agents are evaluated on benchmarks that assume cl…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2605.11928",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "AI Agent",
-            "模型评测"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "AI Agent 人群",
-            "模型评测 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-48b4b52e",
-          "title": "EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2606.03678v2 Announce Type: replace Abstract: Generating safety-critical scenarios is essential for validating an…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2606.03678",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "AI Agent",
-            "AI 安全"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "AI Agent 人群",
-            "AI 安全 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-35fb57b8",
-          "title": "CASCADE: An Agentic Regulatory Network Framework for Patient-Data-Validated Downstream Perturbation Prediction",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2608.05359v3 Announce Type: replace Abstract: CASCADE is an agentic framework that predicts downstream transcript…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2608.05359",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "AI Agent"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
+            "OpenAI 关注者",
             "AI Agent 人群"
           ],
           "searchKeywords": [
@@ -1193,93 +771,10 @@
             "AI 研究趋势",
             "多模态论文",
             "Agent 论文",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-3f96b088",
-          "title": "API Benchmark Scores Do Not Reliably Transfer to Chatbot Interfaces",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2609.08861v3 Announce Type: replace Abstract: Benchmark scores are a central currency in model releases: they inf…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2609.08861",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "模型评测"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "模型评测 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "模型评测 工具",
-            "模型评测 方案",
-            "模型评测 教程",
-            "模型评测 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-4b7b7cba",
-          "title": "Hyper Algorithm Design Agent: Evolving Learnable Optimizer from Zero",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2609.35328v2 Announce Type: replace Abstract: Meta-Black-Box Optimization (MetaBBO) is one of the highlights in t…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-13T04:00:00.000Z",
-          "publishedAt": "2026-10-13 12:00",
-          "url": "https://arxiv.org/abs/2609.35328",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [
-            "Meta"
-          ],
-          "technologies": [
-            "AI Agent"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "Meta 关注者",
-            "AI Agent 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "Meta 最新消息",
-            "Meta 怎么用",
-            "Meta 价格",
-            "Meta API"
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
           ],
           "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
         }
@@ -1290,20 +785,65 @@
       "label": "技巧与观点",
       "items": [
         {
-          "id": "item-cfac4d87",
-          "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-          "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
+          "id": "item-f67526e4",
+          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+          "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
+          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+          "publishedAtISO": "2026-10-14T21:36:11.000Z",
+          "publishedAt": "2026-10-15 05:36",
+          "url": "https://x.com/lydiahallie/status/2110484841926152622",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI 编程",
+            "长上下文"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "Anthropic 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-9dd7db22",
+          "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
+          "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
           "source": "LangChain：Blog（RSS）",
-          "publishedAtISO": "2026-10-13T11:56:53.000Z",
-          "publishedAt": "2026-10-13 19:56",
-          "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
+          "publishedAtISO": "2026-10-14T17:00:00.000Z",
+          "publishedAt": "2026-10-15 01:00",
+          "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
           "category": "tip",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
           "brands": [],
           "technologies": [
             "AI Agent",
-            "长上下文"
+            "长上下文",
+            "开源模型"
           ],
           "flowTags": [
             "AI 使用技巧",
@@ -1330,6 +870,129 @@
             "AI Agent 应用场景"
           ],
           "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-5a943693",
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "summary": "OpenAI News 发布了与技巧与观点相关的新动态。原文摘要提到：With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threat…",
+          "source": "OpenAI News",
+          "publishedAtISO": "2026-10-14T12:00:00.000Z",
+          "publishedAt": "2026-10-14 20:00",
+          "url": "https://openai.com/index/sentinelone",
+          "category": "tip",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "OpenAI 关注者"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-500192f3",
+          "title": "Databricks 讲解如何在 AI Runtime 上将 Qwen 3.8 27B 微调时间缩短 6 倍",
+          "summary": "Databricks 演示通过系统性性能优化，将 Qwen 3.8 27B 在 AI Runtime 上的微调时间从 7 小时 44 分钟降至 1 小时 17 分钟，提速 6 倍。",
+          "source": "Databricks：Blog（RSS）",
+          "publishedAtISO": "2026-10-14T11:30:00.000Z",
+          "publishedAt": "2026-10-14 19:30",
+          "url": "https://www.databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "阿里云"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "阿里云 关注者"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "阿里云 最新消息",
+            "阿里云 怎么用",
+            "阿里云 价格",
+            "阿里云 API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-d56143d0",
+          "title": "OpenAI 团队分享如何用 GPT-6 系列模型维护大型代码库",
+          "summary": "OpenAI Core Experimentation 团队发文介绍用 GPT-6 Astra 和 GPT-6.1 Sol 配合 Codex 做代码维护，包括清理无用代码和陈旧实验、修复 flaky 测试等。",
+          "source": "OpenAI Developers：Blog（网页）",
+          "publishedAtISO": "2026-10-14T07:00:00.000Z",
+          "publishedAt": "2026-10-14 15:00",
+          "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "OpenAI 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
         }
       ]
     },
@@ -1340,11 +1003,11 @@
     }
   ],
   "stats": {
-    "totalItems": 30,
-    "aiHotItems": 20,
-    "extendedItems": 10,
+    "totalItems": 19,
+    "aiHotItems": 14,
+    "extendedItems": 5,
     "categories": 5,
-    "sourceCount": 20
+    "sourceCount": 15
   },
   "sources": {
     "primary": {
