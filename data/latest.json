@@ -1,28 +1,28 @@
 {
-  "id": "2026-10-20",
+  "id": "2026-10-21",
   "title": "AI 热点与营销投放情报",
-  "updatedAtISO": "2026-10-20T01:00:00.000Z",
-  "updatedAtBJT": "2026-10-20 09:00",
+  "updatedAtISO": "2026-10-21T01:00:00.000Z",
+  "updatedAtBJT": "2026-10-21 09:00",
   "autoStatus": "本期内容已于北京时间 09:00 自动更新",
   "coverage": {
-    "startISO": "2026-10-19T01:00:00.000Z",
-    "endISO": "2026-10-20T01:00:00.000Z",
-    "startBJT": "2026-10-19 09:00",
-    "endBJT": "2026-10-20 09:00",
-    "label": "本期覆盖：2026-10-19 09:00 至 2026-10-20 09:00"
+    "startISO": "2026-10-20T01:00:00.000Z",
+    "endISO": "2026-10-21T01:00:00.000Z",
+    "startBJT": "2026-10-20 09:00",
+    "endBJT": "2026-10-21 09:00",
+    "label": "本期覆盖：2026-10-20 09:00 至 2026-10-21 09:00"
   },
   "summary": {
-    "headline": "本期收录 27 条热点，其中 AI HOT 精选 17 条，扩展公开来源 10 条。",
+    "headline": "本期收录 16 条热点，其中 AI HOT 精选 12 条，扩展公开来源 4 条。",
     "bullets": [
-      "重点分布：论文研究 10 条、模型发布/更新 6 条、行业动态 5 条。",
-      "高频品牌/产品：OpenAI、Meta、GitHub、智谱、Google。",
-      "高频技术线索：AI Agent、开源模型、模型评测、AI 安全、AI 搜索。"
+      "重点分布：行业动态 5 条、产品发布/更新 4 条、模型发布/更新 3 条。",
+      "高频品牌/产品：Google、OpenAI、Anthropic、Hugging Face、Meta。",
+      "高频技术线索：开源模型、模型评测、AI Agent、大模型、视频生成。"
     ],
     "watchlist": [
-      "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
-      "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
-      "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
-      "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一"
+      "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+      "SpaceX 财报显示 AI 业务超预期，占收入 52%",
+      "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
+      "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理"
     ],
     "marketingSignals": [
       "产品更新适合做“上手教程、替代方案、场景清单”型内容。",
@@ -33,36 +33,40 @@
   },
   "keywordPool": {
     "flowHot": [
-      "模型评测",
-      "科研工具",
-      "多模态研究",
-      "开源基准",
-      "算法创新",
-      "研究前沿",
-      "Agent 评估",
-      "AI 论文",
-      "AI Agent 人群",
-      "企业 AI 选型",
       "平台生态",
       "企业数字化",
-      "大模型更新",
-      "低成本推理",
-      "多模态能力",
-      "国产大模型",
-      "开源模型",
-      "AI 开发者",
-      "OpenAI 关注者",
+      "模型评测",
+      "企业软件",
+      "效率工具",
+      "AI 工具",
       "融资并购",
       "数据安全",
       "AI 监管合规",
       "AI 商业化",
       "AI 芯片",
       "AI 行业动态",
-      "成本优化",
-      "工作流优化",
-      "开发者经验"
+      "科研工具",
+      "企业 AI 选型",
+      "创意生产",
+      "内容创作",
+      "运营自动化",
+      "智能办公",
+      "AI 工作流",
+      "大模型更新",
+      "低成本推理",
+      "多模态能力",
+      "多模态研究",
+      "国产大模型",
+      "开源基准",
+      "开源模型",
+      "开源模型 人群",
+      "模型评测 人群"
     ],
     "searchValue": [
+      "企业 AI 工具",
+      "AI 产品教程",
+      "AI 工具推荐",
+      "AI 内容创作工具",
       "大模型选型",
       "开源模型部署",
       "模型 API",
@@ -74,83 +78,78 @@
       "AI Agent 方案",
       "AI Agent 工具",
       "AI Agent 教程",
-      "提示词教程",
-      "AI 自动化教程",
-      "Meta 价格",
-      "Meta API",
+      "Google 价格",
+      "Google API",
+      "Hugging Face 价格",
+      "Hugging Face API",
+      "开源模型 方案",
+      "开源模型 工具",
+      "开源模型 教程",
       "模型评测 方案",
       "模型评测 工具",
       "模型评测 教程",
-      "企业 AI 工具",
       "视频生成 方案",
       "视频生成 工具",
-      "视频生成 教程",
-      "AI 产品教程",
-      "AI 工具推荐",
-      "AI 内容创作工具",
-      "智谱 价格",
-      "智谱 API",
-      "AI 安全 方案"
+      "视频生成 教程"
     ],
     "longTail": [
-      "最新 AI 论文",
-      "Agent 论文",
-      "OpenAI 怎么用",
-      "OpenAI 最新消息",
       "AI 商业化案例",
-      "OpenAI 价格",
-      "OpenAI API",
       "生成式 AI 合规",
-      "AI 工作流案例",
-      "AI Agent 方案",
-      "AI Agent 工具",
-      "AI Agent 教程",
-      "AI Agent 应用场景",
-      "提示词教程",
-      "AI 自动化教程",
-      "Meta 怎么用",
-      "Meta 最新消息",
-      "Meta API",
-      "模型评测 教程",
-      "模型评测 应用场景",
       "企业 AI 工具",
-      "视频生成 教程",
-      "视频生成 应用场景",
       "AI 办公自动化",
       "AI 产品教程",
       "AI 工作流搭建",
       "AI 内容创作工具",
-      "拟通过破产程序收购 怎么用"
+      "最新 AI 论文",
+      "OpenAI 怎么用",
+      "OpenAI 最新消息",
+      "Agent 论文",
+      "OpenAI 价格",
+      "OpenAI API",
+      "Google 怎么用",
+      "Google 最新消息",
+      "Hugging Face 怎么用",
+      "Hugging Face 最新消息",
+      "AI Agent 方案",
+      "AI Agent 工具",
+      "AI Agent 教程",
+      "AI Agent 应用场景",
+      "Google 价格",
+      "Google API",
+      "Hugging Face 价格",
+      "Hugging Face API",
+      "面壁智能解析前瞻专家调度 怎么用",
+      "宣布进军西班牙 怎么用",
+      "AI 工作流案例"
     ],
     "brandProduct": [
+      "Google",
       "OpenAI",
       "OpenAI 价格",
       "OpenAI 怎么用",
       "OpenAI 最新消息",
       "OpenAI API",
-      "Meta",
-      "Meta 价格",
-      "Meta 怎么用",
-      "Meta 最新消息",
-      "Meta API",
-      "GitHub",
-      "智谱",
-      "智谱 价格",
-      "智谱 怎么用",
-      "智谱 最新消息",
-      "智谱 API",
-      "GitHub 价格",
-      "GitHub 怎么用",
-      "GitHub 最新消息",
-      "GitHub API",
-      "Google",
+      "Anthropic",
       "Google 价格",
       "Google 怎么用",
       "Google 最新消息",
       "Google API",
       "Hugging Face",
       "Hugging Face 价格",
-      "Hugging Face 怎么用"
+      "Hugging Face 怎么用",
+      "Hugging Face 最新消息",
+      "Hugging Face API",
+      "Anthropic 价格",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
+      "Anthropic API",
+      "Meta",
+      "Microsoft",
+      "xAI",
+      "xAI 价格",
+      "xAI 怎么用",
+      "xAI 最新消息",
+      "xAI API"
     ]
   },
   "groups": [
@@ -159,20 +158,19 @@
       "label": "模型发布/更新",
       "items": [
         {
-          "id": "item-6b5bd9ce",
-          "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
-          "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+          "id": "item-b6adf537",
+          "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
+          "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。",
           "source": "X：fal (@fal)",
-          "publishedAtISO": "2026-10-19T18:34:22.000Z",
-          "publishedAt": "2026-10-20 02:34",
-          "url": "https://x.com/fal/status/2112251022047412492",
+          "publishedAtISO": "2026-10-20T17:42:57.000Z",
+          "publishedAt": "2026-10-21 01:42",
+          "url": "https://x.com/fal/status/2112600472922333263",
           "category": "ai-models",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
           "brands": [],
           "technologies": [
             "视频生成",
-            "图像生成",
             "模型评测"
           ],
           "flowTags": [
@@ -185,7 +183,7 @@
             "低成本推理",
             "多模态能力",
             "视频生成 人群",
-            "图像生成 人群"
+            "模型评测 人群"
           ],
           "searchKeywords": [
             "大模型选型",
@@ -202,194 +200,18 @@
           "marketingAngle": "可围绕模型发布/更新的能力更新、价格/API、中文体验和替代方案做搜索承接。"
         },
         {
-          "id": "item-98712430",
-          "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
-          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。",
-          "source": "X：Arena (@arena)",
-          "publishedAtISO": "2026-10-19T18:18:50.000Z",
-          "publishedAt": "2026-10-20 02:18",
-          "url": "https://x.com/arena/status/2112247114944360666",
+          "id": "item-a6388a41",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "summary": "Hugging Face Blog 发布了与模型发布/更新相关的新动态。原文标题为：ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "source": "Hugging Face Blog",
+          "publishedAtISO": "2026-10-20T15:19:48.000Z",
+          "publishedAt": "2026-10-20 23:19",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
           "category": "ai-models",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
           "brands": [
-            "OpenAI"
-          ],
-          "technologies": [
-            "AI Agent",
-            "开源模型"
-          ],
-          "flowTags": [
-            "大模型更新",
-            "模型评测",
-            "AI 开发者",
-            "企业 AI 选型",
-            "国产大模型",
-            "开源模型",
-            "低成本推理",
-            "多模态能力",
-            "OpenAI 关注者",
-            "AI Agent 人群"
-          ],
-          "searchKeywords": [
-            "大模型选型",
-            "模型 API",
-            "模型价格",
-            "中文能力对比",
-            "开源模型部署",
-            "企业大模型方案",
-            "OpenAI 最新消息",
-            "OpenAI 怎么用",
-            "OpenAI 价格",
-            "OpenAI API"
-          ],
-          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
-        },
-        {
-          "id": "item-40a9b093",
-          "title": "DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二",
-          "summary": "DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "publishedAtISO": "2026-10-19T16:25:46.000Z",
-          "publishedAt": "2026-10-20 00:25",
-          "url": "https://x.com/ArtificialAnlys/status/2112218661432000694",
-          "category": "ai-models",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "智谱"
-          ],
-          "technologies": [
-            "开源模型"
-          ],
-          "flowTags": [
-            "大模型更新",
-            "模型评测",
-            "AI 开发者",
-            "企业 AI 选型",
-            "国产大模型",
-            "开源模型",
-            "低成本推理",
-            "多模态能力",
-            "智谱 关注者",
-            "开源模型 人群"
-          ],
-          "searchKeywords": [
-            "大模型选型",
-            "模型 API",
-            "模型价格",
-            "中文能力对比",
-            "开源模型部署",
-            "企业大模型方案",
-            "智谱 最新消息",
-            "智谱 怎么用",
-            "智谱 价格",
-            "智谱 API"
-          ],
-          "marketingAngle": "可围绕智谱相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
-        },
-        {
-          "id": "item-dd3d7c1c",
-          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
-          "source": "X：Arena (@arena)",
-          "publishedAtISO": "2026-10-19T16:14:30.000Z",
-          "publishedAt": "2026-10-20 00:14",
-          "url": "https://x.com/arena/status/2112215825944117361",
-          "category": "ai-models",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "Google",
-            "Meta"
-          ],
-          "technologies": [
-            "大模型"
-          ],
-          "flowTags": [
-            "大模型更新",
-            "模型评测",
-            "AI 开发者",
-            "企业 AI 选型",
-            "国产大模型",
-            "开源模型",
-            "低成本推理",
-            "多模态能力",
-            "Google 关注者",
-            "Meta 关注者"
-          ],
-          "searchKeywords": [
-            "大模型选型",
-            "模型 API",
-            "模型价格",
-            "中文能力对比",
-            "开源模型部署",
-            "企业大模型方案",
-            "Google 最新消息",
-            "Google 怎么用",
-            "Google 价格",
-            "Google API"
-          ],
-          "marketingAngle": "可围绕Google相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
-        },
-        {
-          "id": "item-c6ab6f86",
-          "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
-          "summary": "OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "publishedAtISO": "2026-10-19T12:00:00.000Z",
-          "publishedAt": "2026-10-19 20:00",
-          "url": "https://openai.com/index/low-resource-programming-languages",
-          "category": "ai-models",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "OpenAI"
-          ],
-          "technologies": [
-            "AI 编程",
-            "模型评测"
-          ],
-          "flowTags": [
-            "大模型更新",
-            "模型评测",
-            "AI 开发者",
-            "企业 AI 选型",
-            "国产大模型",
-            "开源模型",
-            "低成本推理",
-            "多模态能力",
-            "OpenAI 关注者",
-            "AI 编程 人群"
-          ],
-          "searchKeywords": [
-            "大模型选型",
-            "模型 API",
-            "模型价格",
-            "中文能力对比",
-            "开源模型部署",
-            "企业大模型方案",
-            "OpenAI 最新消息",
-            "OpenAI 怎么用",
-            "OpenAI 价格",
-            "OpenAI API"
-          ],
-          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
-        },
-        {
-          "id": "item-398f0901",
-          "title": "蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型",
-          "summary": "蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。",
-          "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-          "publishedAtISO": "2026-10-19T07:03:25.000Z",
-          "publishedAt": "2026-10-19 15:03",
-          "url": "https://github.com/inclusionAI/Ming-3.0-tts",
-          "category": "ai-models",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "Hugging Face",
-            "GitHub"
+            "Hugging Face"
           ],
           "technologies": [
             "开源模型"
@@ -404,7 +226,7 @@
             "低成本推理",
             "多模态能力",
             "Hugging Face 关注者",
-            "GitHub 关注者"
+            "开源模型 人群"
           ],
           "searchKeywords": [
             "大模型选型",
@@ -419,6 +241,49 @@
             "Hugging Face API"
           ],
           "marketingAngle": "可围绕Hugging Face相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-e3eb2392",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "summary": "OpenAI News 发布了与模型发布/更新相关的新动态。原文摘要提到：An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free…",
+          "source": "OpenAI News",
+          "publishedAtISO": "2026-10-20T10:00:00.000Z",
+          "publishedAt": "2026-10-20 18:00",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "category": "ai-models",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "大模型"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "OpenAI 关注者",
+            "大模型 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
         }
       ]
     },
@@ -427,21 +292,19 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "item-8d1cf5a3",
-          "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
-          "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "publishedAtISO": "2026-10-19T16:54:03.000Z",
-          "publishedAt": "2026-10-20 00:54",
-          "url": "https://x.com/OpenRouter/status/2112225779782398131",
+          "id": "item-e11e09ec",
+          "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+          "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "publishedAtISO": "2026-10-20T16:34:51.000Z",
+          "publishedAt": "2026-10-21 00:34",
+          "url": "https://x.com/AravSrinivas/status/2112583333825950207",
           "category": "ai-products",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
-          "brands": [
-            "OpenAI"
-          ],
+          "brands": [],
           "technologies": [
-            "长上下文"
+            "AI Agent"
           ],
           "flowTags": [
             "AI 工具",
@@ -452,8 +315,8 @@
             "AI 工作流",
             "创意生产",
             "企业软件",
-            "OpenAI 关注者",
-            "长上下文 人群"
+            "AI Agent 人群",
+            "企业服务"
           ],
           "searchKeywords": [
             "AI 工具推荐",
@@ -462,29 +325,29 @@
             "AI 产品教程",
             "AI 工作流搭建",
             "企业 AI 工具",
-            "OpenAI 最新消息",
-            "OpenAI 怎么用",
-            "OpenAI 价格",
-            "OpenAI API"
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
           ],
           "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
         },
         {
-          "id": "item-487af571",
-          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-          "summary": "AWS 发布 TorchNeuron，一个面向 AWS Trainium 的开源原生 PyTorch 后端，将于 10 月 20 日在 PyTorch Conference North America 上以 Apache 2.0 协议开放公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
+          "id": "item-2085ccc0",
+          "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
+          "summary": "Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(\"cuda\") 改为 .to(\"tpu\")。",
           "source": "PyTorch：Blog（RSS）",
-          "publishedAtISO": "2026-10-19T12:45:23.000Z",
-          "publishedAt": "2026-10-19 20:45",
-          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
+          "publishedAtISO": "2026-10-20T16:00:30.000Z",
+          "publishedAt": "2026-10-21 00:00",
+          "url": "https://pytorch.org/blog/introducing-torchtpu/",
           "category": "ai-products",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
           "brands": [
-            "GitHub"
+            "Google",
+            "Meta"
           ],
           "technologies": [
-            "AI 编程",
             "开源模型"
           ],
           "flowTags": [
@@ -496,8 +359,8 @@
             "AI 工作流",
             "创意生产",
             "企业软件",
-            "GitHub 关注者",
-            "AI 编程 人群"
+            "Google 关注者",
+            "Meta 关注者"
           ],
           "searchKeywords": [
             "AI 工具推荐",
@@ -506,10 +369,93 @@
             "AI 产品教程",
             "AI 工作流搭建",
             "企业 AI 工具",
-            "GitHub 最新消息",
-            "GitHub 怎么用",
-            "GitHub 价格",
-            "GitHub API"
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-b6038803",
+          "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+          "summary": "IBM、Red Hat 和 Google 等主导的开源推理项目 llm-d 在 PyTorch Conference North America 上发布 llm-d 1.0，这是一个 Kubernetes 原生的分布式推理服务框架，支持任意模型、任意加速器和任意云。",
+          "source": "IBM Research：AI",
+          "publishedAtISO": "2026-10-20T12:00:00.000Z",
+          "publishedAt": "2026-10-20 20:00",
+          "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving?utm_medium=rss&utm_source=rss",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Google 关注者",
+            "开源模型 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-72d5bd2a",
+          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+          "summary": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。",
+          "source": "公众号：DeepSeek（深度求索）",
+          "publishedAtISO": "2026-10-20T08:54:54.000Z",
+          "publishedAt": "2026-10-20 16:54",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "开源模型 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "开源模型 工具",
+            "开源模型 方案",
+            "开源模型 教程",
+            "开源模型 应用场景"
           ],
           "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
         }
@@ -520,63 +466,22 @@
       "label": "行业动态",
       "items": [
         {
-          "id": "item-4014ea17",
-          "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
-          "summary": "作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。",
-          "source": "公众号：数字生命卡兹克",
-          "publishedAtISO": "2026-10-20T00:26:00.000Z",
-          "publishedAt": "2026-10-20 08:26",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
-          "category": "industry",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [],
-          "technologies": [
-            "视频生成"
-          ],
-          "flowTags": [
-            "AI 行业动态",
-            "融资并购",
-            "AI 监管合规",
-            "AI 芯片",
-            "企业数字化",
-            "AI 商业化",
-            "平台生态",
-            "数据安全",
-            "视频生成 人群"
-          ],
-          "searchKeywords": [
-            "AI 行业趋势",
-            "AI 监管政策",
-            "AI 融资新闻",
-            "AI 商业化案例",
-            "AI 芯片公司",
-            "生成式 AI 合规",
-            "视频生成 工具",
-            "视频生成 方案",
-            "视频生成 教程",
-            "视频生成 应用场景"
-          ],
-          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
-        },
-        {
-          "id": "item-4e85bac1",
-          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
-          "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
-          "source": "Ars Technica：AI（RSS）",
-          "publishedAtISO": "2026-10-19T20:21:53.000Z",
-          "publishedAt": "2026-10-20 04:21",
-          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+          "id": "item-eafe04db",
+          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+          "summary": "据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。",
+          "source": "TechCrunch：AI（RSS）",
+          "publishedAtISO": "2026-10-20T21:25:22.000Z",
+          "publishedAt": "2026-10-21 05:25",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
           "category": "industry",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
           "brands": [
-            "OpenAI"
+            "Anthropic",
+            "Google",
+            "Microsoft"
           ],
-          "technologies": [
-            "AI Agent",
-            "AI 搜索"
-          ],
+          "technologies": [],
           "flowTags": [
             "AI 行业动态",
             "融资并购",
@@ -586,8 +491,8 @@
             "AI 商业化",
             "平台生态",
             "数据安全",
-            "OpenAI 关注者",
-            "AI Agent 人群"
+            "Anthropic 关注者",
+            "Google 关注者"
           ],
           "searchKeywords": [
             "AI 行业趋势",
@@ -596,25 +501,27 @@
             "AI 商业化案例",
             "AI 芯片公司",
             "生成式 AI 合规",
-            "OpenAI 最新消息",
-            "OpenAI 怎么用",
-            "OpenAI 价格",
-            "OpenAI API"
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
           ],
           "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
         },
         {
-          "id": "item-d6237069",
-          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-          "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-          "source": "Hacker News：AI 热帖",
-          "publishedAtISO": "2026-10-19T15:05:00.000Z",
-          "publishedAt": "2026-10-19 23:05",
-          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+          "id": "item-ea54089",
+          "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
+          "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
+          "source": "TechCrunch：AI（RSS）",
+          "publishedAtISO": "2026-10-20T20:40:41.000Z",
+          "publishedAt": "2026-10-21 04:40",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
           "category": "industry",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
-          "brands": [],
+          "brands": [
+            "xAI"
+          ],
           "technologies": [
             "AI 安全"
           ],
@@ -627,6 +534,7 @@
             "AI 商业化",
             "平台生态",
             "数据安全",
+            "xAI 关注者",
             "AI 安全 人群"
           ],
           "searchKeywords": [
@@ -636,21 +544,103 @@
             "AI 商业化案例",
             "AI 芯片公司",
             "生成式 AI 合规",
-            "AI 安全 工具",
-            "AI 安全 方案",
-            "AI 安全 教程",
-            "AI 安全 应用场景"
+            "xAI 最新消息",
+            "xAI 怎么用",
+            "xAI 价格",
+            "xAI API"
           ],
           "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
         },
         {
-          "id": "item-c18a2f3c",
-          "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-          "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
-          "source": "Ars Technica：AI（RSS）",
-          "publishedAtISO": "2026-10-19T14:45:43.000Z",
-          "publishedAt": "2026-10-19 22:45",
-          "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+          "id": "item-4f69ff64",
+          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+          "summary": "据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。",
+          "source": "The Decoder：AI News（RSS）",
+          "publishedAtISO": "2026-10-20T12:32:56.000Z",
+          "publishedAt": "2026-10-20 20:32",
+          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "AI Agent"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-2c0bedb7",
+          "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+          "summary": "据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "publishedAtISO": "2026-10-20T08:06:25.000Z",
+          "publishedAt": "2026-10-20 16:06",
+          "url": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "OpenAI 关注者",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-99385f8f",
+          "title": "Waymo 宣布进军西班牙，2027 年在马德里大区迎接首批乘客",
+          "summary": "Waymo 宣布为在西班牙马德里大区推出全自动驾驶出行服务奠定基础，目标 2027 年迎来首批乘客。未来数日其电动 Jaguar I-PACE 车辆将现身当地街头，先以人工驾驶开始，再由当地受训的自动驾驶专家进行技术验证。Waymo 称已累计完成逾 2000 万次行程、400 万公里全自动驾驶里程，在其运营城市中涉及重伤或更严重事故的比例比人类司机低 95%。",
+          "source": "Waymo：Blog（网页）",
+          "publishedAtISO": "2026-10-20T07:00:00.000Z",
+          "publishedAt": "2026-10-20 15:00",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-madrid-region",
           "category": "industry",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
@@ -673,55 +663,12 @@
             "AI 商业化案例",
             "AI 芯片公司",
             "生成式 AI 合规",
-            "Disney 是什么",
-            "Disney 怎么用",
-            "拟通过破产程序收购 是什么",
-            "拟通过破产程序收购 怎么用"
+            "Waymo 是什么",
+            "Waymo 怎么用",
+            "宣布进军西班牙 是什么",
+            "宣布进军西班牙 怎么用"
           ],
           "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
-        },
-        {
-          "id": "item-3bcc0e93",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-          "summary": "AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。",
-          "source": "The Verge：AI（RSS）",
-          "publishedAtISO": "2026-10-19T13:58:41.000Z",
-          "publishedAt": "2026-10-19 21:58",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "category": "industry",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [],
-          "technologies": [
-            "AI Agent",
-            "开源模型",
-            "AI 安全"
-          ],
-          "flowTags": [
-            "AI 行业动态",
-            "融资并购",
-            "AI 监管合规",
-            "AI 芯片",
-            "企业数字化",
-            "AI 商业化",
-            "平台生态",
-            "数据安全",
-            "AI Agent 人群",
-            "开源模型 人群"
-          ],
-          "searchKeywords": [
-            "AI 行业趋势",
-            "AI 监管政策",
-            "AI 融资新闻",
-            "AI 商业化案例",
-            "AI 芯片公司",
-            "生成式 AI 合规",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
-          ],
-          "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
         }
       ]
     },
@@ -730,137 +677,22 @@
       "label": "论文研究",
       "items": [
         {
-          "id": "item-59bb9a43",
-          "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.23670v1 Announce Type: new Abstract: Chain-of-Thought (CoT) monitoring offers actionable evidence for oversi…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2610.23670",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "OwlSight 是什么",
-            "OwlSight 怎么用",
-            "Panoramic 是什么",
-            "Panoramic 怎么用"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-96c49103",
-          "title": "Language Models Learn to Improve Language Models",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.23344v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to automate AI res…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2610.23344",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "Language 是什么",
-            "Language 怎么用",
-            "Models 是什么",
-            "Models 怎么用"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-5d16d49a",
-          "title": "AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2603.03378v4 Announce Type: replace-cross Abstract: Large language model (LLM) agents offer a promising data-driv…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2603.03378",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "AI Agent"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "AI Agent 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-a9f2214",
-          "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
-          "summary": "arXiv cs.CL 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2605.10899v2 Announce Type: replace Abstract: Deep research agents plan, search, evaluate evidence, and synthesiz…",
-          "source": "arXiv cs.CL",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2605.10899",
+          "id": "item-a54b38a7",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "summary": "Hugging Face Blog 发布了与论文研究相关的新动态。原文标题为：FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "source": "Hugging Face Blog",
+          "publishedAtISO": "2026-10-20T16:09:19.000Z",
+          "publishedAt": "2026-10-21 00:09",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
           "category": "paper",
           "sourceType": "扩展热点观察",
           "sourceTypeKey": "extended",
           "brands": [
-            "Meta"
+            "Hugging Face"
           ],
           "technologies": [
-            "AI Agent",
             "模型评测",
-            "AI 搜索"
+            "开源模型"
           ],
           "flowTags": [
             "AI 论文",
@@ -871,8 +703,8 @@
             "多模态研究",
             "Agent 评估",
             "开源基准",
-            "Meta 关注者",
-            "AI Agent 人群"
+            "Hugging Face 关注者",
+            "模型评测 人群"
           ],
           "searchKeywords": [
             "AI 论文解读",
@@ -881,104 +713,24 @@
             "AI 研究趋势",
             "多模态论文",
             "Agent 论文",
-            "Meta 最新消息",
-            "Meta 怎么用",
-            "Meta 价格",
-            "Meta API"
+            "Hugging Face 最新消息",
+            "Hugging Face 怎么用",
+            "Hugging Face 价格",
+            "Hugging Face API"
           ],
           "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
         },
         {
-          "id": "item-3e9804d",
-          "title": "WebCoder: Scaling General Frontend Development with Artifact-Grounded Agentic Reinforcement Learning",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.23104v1 Announce Type: new Abstract: Real-world frontend development requires agents to compose reproduction…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2610.23104",
+          "id": "item-70cea234",
+          "title": "Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称",
+          "summary": "Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗前缀，测量 LLM 在面对说服性论据时改变决策的难易是否因候选人所属人口群体而不同，全部组合超过 1300 万测试用例，并已开放下载、集成进 Olmo-eval。",
+          "source": "Ai2 / Allen Institute for AI（RSS）",
+          "publishedAtISO": "2026-10-20T08:00:00.000Z",
+          "publishedAt": "2026-10-20 16:00",
+          "url": "https://allenai.org/blog/fairstress",
           "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "AI Agent"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "AI Agent 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-dec0e8d0",
-          "title": "GEMS: Molecular Structure Elucidation as Learned Search over Isomer Graphs",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.23617v1 Announce Type: new Abstract: Identifying small-molecule structures from molecular formulas and tande…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2610.23617",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "AI 搜索"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "AI 搜索 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "AI 搜索 工具",
-            "AI 搜索 方案",
-            "AI 搜索 教程",
-            "AI 搜索 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-f0c343bd",
-          "title": "PresenceBench: An Exploratory Evaluation of Large Language Model Adaptation to User State",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.23625v1 Announce Type: cross Abstract: Presence-aware intelligence is the capacity of an AI system's intelli…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2610.23625",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
           "brands": [],
           "technologies": [
             "模型评测"
@@ -1009,62 +761,23 @@
           "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
         },
         {
-          "id": "item-689e28ff",
-          "title": "ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.20532v2 Announce Type: replace Abstract: A multimodal agent must decide whether visual evidence is worth acq…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2610.20532",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "AI Agent",
-            "多模态 AI"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "AI Agent 人群",
-            "多模态 AI 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-8560125",
-          "title": "GPT, But Backwards: Exactly Inverting Language Model Outputs",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2507.01693v3 Announce Type: replace-cross Abstract: Recent work shows that distinct inputs produce distinct hidde…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2507.01693",
+          "id": "item-66c07570",
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "summary": "OpenAI News 发布了与论文研究相关的新动态。原文摘要提到：Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate…",
+          "source": "OpenAI News",
+          "publishedAtISO": "2026-10-20T07:00:00.000Z",
+          "publishedAt": "2026-10-20 15:00",
+          "url": "https://openai.com/index/terminal-x",
           "category": "paper",
           "sourceType": "扩展热点观察",
           "sourceTypeKey": "extended",
           "brands": [
             "OpenAI"
           ],
-          "technologies": [],
+          "technologies": [
+            "AI Agent",
+            "模型评测"
+          ],
           "flowTags": [
             "AI 论文",
             "模型评测",
@@ -1074,7 +787,8 @@
             "多模态研究",
             "Agent 评估",
             "开源基准",
-            "OpenAI 关注者"
+            "OpenAI 关注者",
+            "AI Agent 人群"
           ],
           "searchKeywords": [
             "AI 论文解读",
@@ -1087,46 +801,6 @@
             "OpenAI 怎么用",
             "OpenAI 价格",
             "OpenAI API"
-          ],
-          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
-        },
-        {
-          "id": "item-2e18cfa0",
-          "title": "Towards Agentic Cloud Engineering: Graph and Loop Engineering with a Zero-Trust Agent Harness",
-          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2609.00050v2 Announce Type: replace-cross Abstract: Agentic AI is enabling cloud-based workflows in which autonom…",
-          "source": "arXiv cs.AI",
-          "publishedAtISO": "2026-10-19T04:00:00.000Z",
-          "publishedAt": "2026-10-19 12:00",
-          "url": "https://arxiv.org/abs/2609.00050",
-          "category": "paper",
-          "sourceType": "扩展热点观察",
-          "sourceTypeKey": "extended",
-          "brands": [],
-          "technologies": [
-            "AI Agent"
-          ],
-          "flowTags": [
-            "AI 论文",
-            "模型评测",
-            "研究前沿",
-            "算法创新",
-            "科研工具",
-            "多模态研究",
-            "Agent 评估",
-            "开源基准",
-            "AI Agent 人群"
-          ],
-          "searchKeywords": [
-            "AI 论文解读",
-            "最新 AI 论文",
-            "模型评测基准",
-            "AI 研究趋势",
-            "多模态论文",
-            "Agent 论文",
-            "AI Agent 工具",
-            "AI Agent 方案",
-            "AI Agent 教程",
-            "AI Agent 应用场景"
           ],
           "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
         }
@@ -1137,105 +811,17 @@
       "label": "技巧与观点",
       "items": [
         {
-          "id": "item-9e5e2f0d",
-          "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
-          "summary": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。",
-          "source": "Meta Engineering Blog（RSS）",
-          "publishedAtISO": "2026-10-19T15:30:37.000Z",
-          "publishedAt": "2026-10-19 23:30",
-          "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
-          "category": "tip",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "Meta"
-          ],
-          "technologies": [
-            "AI Agent",
-            "长上下文"
-          ],
-          "flowTags": [
-            "AI 使用技巧",
-            "提示词工程",
-            "AI 提效",
-            "运营方法论",
-            "开发者经验",
-            "内容生产",
-            "成本优化",
-            "工作流优化",
-            "Meta 关注者",
-            "AI Agent 人群"
-          ],
-          "searchKeywords": [
-            "AI 提效方法",
-            "提示词教程",
-            "AI 工作流案例",
-            "AI 降本增效",
-            "AI 运营技巧",
-            "AI 自动化教程",
-            "Meta 最新消息",
-            "Meta 怎么用",
-            "Meta 价格",
-            "Meta API"
-          ],
-          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
-        },
-        {
-          "id": "item-f48559d9",
-          "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-          "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
-          "source": "LangChain：Blog（RSS）",
-          "publishedAtISO": "2026-10-19T15:00:00.000Z",
-          "publishedAt": "2026-10-19 23:00",
-          "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+          "id": "item-8454b3b7",
+          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
+          "summary": "面壁智能 MiniCPM-V 团队介绍支撑 MiniCPM-V 4.7 端侧运行的前瞻专家调度（LES）技术，称首次实现 35B-A3B 规模 MoE 在端侧实时无损运行，iPhone 18 Pro Max 实测解码超 20 token/s。",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "publishedAtISO": "2026-10-20T06:22:26.000Z",
+          "publishedAt": "2026-10-20 14:22",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
           "category": "tip",
           "sourceType": "AI HOT 精选",
           "sourceTypeKey": "aihot",
           "brands": [],
-          "technologies": [
-            "模型评测",
-            "AI 安全"
-          ],
-          "flowTags": [
-            "AI 使用技巧",
-            "提示词工程",
-            "AI 提效",
-            "运营方法论",
-            "开发者经验",
-            "内容生产",
-            "成本优化",
-            "工作流优化",
-            "模型评测 人群",
-            "AI 安全 人群"
-          ],
-          "searchKeywords": [
-            "AI 提效方法",
-            "提示词教程",
-            "AI 工作流案例",
-            "AI 降本增效",
-            "AI 运营技巧",
-            "AI 自动化教程",
-            "模型评测 工具",
-            "模型评测 方案",
-            "模型评测 教程",
-            "模型评测 应用场景"
-          ],
-          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
-        },
-        {
-          "id": "item-4147b6ce",
-          "title": "n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流",
-          "summary": "n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。",
-          "source": "n8n Blog",
-          "publishedAtISO": "2026-10-19T13:22:17.000Z",
-          "publishedAt": "2026-10-19 21:22",
-          "url": "https://blog.n8n.io/n8n-nvidia-dgx-spark/",
-          "category": "tip",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "OpenAI"
-          ],
           "technologies": [],
           "flowTags": [
             "AI 使用技巧",
@@ -1245,9 +831,7 @@
             "开发者经验",
             "内容生产",
             "成本优化",
-            "工作流优化",
-            "OpenAI 关注者",
-            "企业服务"
+            "工作流优化"
           ],
           "searchKeywords": [
             "AI 提效方法",
@@ -1256,50 +840,10 @@
             "AI 降本增效",
             "AI 运营技巧",
             "AI 自动化教程",
-            "OpenAI 最新消息",
-            "OpenAI 怎么用",
-            "OpenAI 价格",
-            "OpenAI API"
-          ],
-          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
-        },
-        {
-          "id": "item-1156d292",
-          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-          "summary": "Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。",
-          "source": "Meta Engineering Blog（RSS）",
-          "publishedAtISO": "2026-10-19T13:00:10.000Z",
-          "publishedAt": "2026-10-19 21:00",
-          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-          "category": "tip",
-          "sourceType": "AI HOT 精选",
-          "sourceTypeKey": "aihot",
-          "brands": [
-            "Meta"
-          ],
-          "technologies": [],
-          "flowTags": [
-            "AI 使用技巧",
-            "提示词工程",
-            "AI 提效",
-            "运营方法论",
-            "开发者经验",
-            "内容生产",
-            "成本优化",
-            "工作流优化",
-            "Meta 关注者"
-          ],
-          "searchKeywords": [
-            "AI 提效方法",
-            "提示词教程",
-            "AI 工作流案例",
-            "AI 降本增效",
-            "AI 运营技巧",
-            "AI 自动化教程",
-            "Meta 最新消息",
-            "Meta 怎么用",
-            "Meta 价格",
-            "Meta API"
+            "面壁智能解析前瞻专家调度 是什么",
+            "面壁智能解析前瞻专家调度 怎么用",
+            "LES 是什么",
+            "LES 怎么用"
           ],
           "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
         }
@@ -1312,11 +856,11 @@
     }
   ],
   "stats": {
-    "totalItems": 27,
-    "aiHotItems": 17,
-    "extendedItems": 10,
+    "totalItems": 16,
+    "aiHotItems": 12,
+    "extendedItems": 4,
     "categories": 5,
-    "sourceCount": 16
+    "sourceCount": 13
   },
   "sources": {
     "primary": {
