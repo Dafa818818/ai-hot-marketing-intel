@@ -1,0 +1,1313 @@
+{
+  "id": "2026-10-27",
+  "title": "AI 热点与营销投放情报",
+  "updatedAtISO": "2026-10-27T01:00:00.000Z",
+  "updatedAtBJT": "2026-10-27 09:00",
+  "autoStatus": "本期内容已于北京时间 09:00 自动更新",
+  "coverage": {
+    "startISO": "2026-10-26T01:00:00.000Z",
+    "endISO": "2026-10-27T01:00:00.000Z",
+    "startBJT": "2026-10-26 09:00",
+    "endBJT": "2026-10-27 09:00",
+    "label": "本期覆盖：2026-10-26 09:00 至 2026-10-27 09:00"
+  },
+  "summary": {
+    "headline": "本期收录 27 条热点，其中 AI HOT 精选 17 条，扩展公开来源 10 条。",
+    "bullets": [
+      "重点分布：论文研究 12 条、行业动态 6 条、产品发布/更新 5 条。",
+      "高频品牌/产品：Anthropic、OpenAI、Hugging Face、阿里云、Meta。",
+      "高频技术线索：AI Agent、模型评测、大模型、开源模型、视频生成。"
+    ],
+    "watchlist": [
+      "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+      "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+      "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+      "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人"
+    ],
+    "marketingSignals": [
+      "产品更新适合做“上手教程、替代方案、场景清单”型内容。",
+      "模型发布适合覆盖品牌词、API 词、价格词、对比词和中文教程词。",
+      "合规与安全议题适合面向企业客户做风险提示和采购评估内容。",
+      "多模态与创意工具可转化为信息流兴趣标签和内容生产解决方案选题。"
+    ]
+  },
+  "keywordPool": {
+    "flowHot": [
+      "科研工具",
+      "模型评测",
+      "多模态研究",
+      "开源基准",
+      "算法创新",
+      "研究前沿",
+      "Agent 评估",
+      "AI 论文",
+      "平台生态",
+      "企业数字化",
+      "企业软件",
+      "融资并购",
+      "数据安全",
+      "效率工具",
+      "AI 工具",
+      "AI 监管合规",
+      "AI 商业化",
+      "AI 芯片",
+      "AI 行业动态",
+      "AI Agent 人群",
+      "Anthropic 关注者",
+      "OpenAI 关注者",
+      "创意生产",
+      "内容创作",
+      "运营自动化",
+      "智能办公",
+      "AI 工作流",
+      "企业 AI 选型"
+    ],
+    "searchValue": [
+      "AI Agent 方案",
+      "AI Agent 工具",
+      "AI Agent 教程",
+      "OpenAI 价格",
+      "OpenAI API",
+      "企业 AI 工具",
+      "AI 产品教程",
+      "AI 工具推荐",
+      "AI 内容创作工具",
+      "Anthropic 价格",
+      "Anthropic API",
+      "大模型选型",
+      "开源模型部署",
+      "模型 API",
+      "模型价格",
+      "企业大模型方案",
+      "视频生成 方案",
+      "视频生成 工具",
+      "视频生成 教程",
+      "中文能力对比",
+      "阿里云 价格",
+      "阿里云 API",
+      "提示词教程",
+      "AI 搜索 方案",
+      "AI 搜索 工具",
+      "AI 搜索 教程",
+      "AI 自动化教程",
+      "Hugging Face 价格"
+    ],
+    "longTail": [
+      "最新 AI 论文",
+      "Agent 论文",
+      "AI 商业化案例",
+      "OpenAI 怎么用",
+      "OpenAI 最新消息",
+      "生成式 AI 合规",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
+      "AI Agent 方案",
+      "AI Agent 工具",
+      "AI Agent 教程",
+      "AI Agent 应用场景",
+      "OpenAI 价格",
+      "OpenAI API",
+      "企业 AI 工具",
+      "AI 办公自动化",
+      "AI 产品教程",
+      "AI 工作流搭建",
+      "AI 内容创作工具",
+      "Anthropic 价格",
+      "Anthropic API",
+      "视频生成 教程",
+      "视频生成 应用场景",
+      "阿里云 怎么用",
+      "阿里云 最新消息",
+      "AI 工作流案例",
+      "Collection 怎么用",
+      "Date 怎么用"
+    ],
+    "brandProduct": [
+      "Anthropic",
+      "OpenAI",
+      "OpenAI 价格",
+      "OpenAI 怎么用",
+      "OpenAI 最新消息",
+      "OpenAI API",
+      "Anthropic 价格",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
+      "Anthropic API",
+      "Hugging Face",
+      "阿里云",
+      "阿里云 价格",
+      "阿里云 怎么用",
+      "阿里云 最新消息",
+      "阿里云 API",
+      "Hugging Face 价格",
+      "Hugging Face 怎么用",
+      "Hugging Face 最新消息",
+      "Hugging Face API",
+      "Meta",
+      "Meta 价格",
+      "Meta 怎么用",
+      "Meta 最新消息",
+      "Meta API"
+    ]
+  },
+  "groups": [
+    {
+      "id": "ai-models",
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "id": "item-e322e29f",
+          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
+          "source": "IT之家·人工智能",
+          "publishedAtISO": "2026-10-26T23:37:17.237Z",
+          "publishedAt": "2026-10-27 07:37",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "大模型"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "OpenAI 关注者",
+            "大模型 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-6693812e",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+          "source": "X：Tibo (@thsottiaux)",
+          "publishedAtISO": "2026-10-26T19:24:11.000Z",
+          "publishedAt": "2026-10-27 03:24",
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "大模型"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "OpenAI 关注者",
+            "大模型 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "可围绕OpenAI相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        }
+      ]
+    },
+    {
+      "id": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "item-b01c33ac",
+          "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+          "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
+          "source": "Gamma Changelog",
+          "publishedAtISO": "2026-10-26T19:14:26.000Z",
+          "publishedAt": "2026-10-27 03:14",
+          "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "AI Agent",
+            "长上下文"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "AI Agent 人群",
+            "长上下文 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-b8c2a7a5",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "publishedAtISO": "2026-10-26T18:49:39.000Z",
+          "publishedAt": "2026-10-27 02:49",
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI"
+          ],
+          "technologies": [
+            "AI Agent",
+            "长上下文"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "OpenAI 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-61f6c7e1",
+          "title": "Krea 推出面向 Adobe Premiere 的插件",
+          "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
+          "source": "X：Krea AI (@krea_ai)",
+          "publishedAtISO": "2026-10-26T15:30:41.000Z",
+          "publishedAt": "2026-10-26 23:30",
+          "url": "https://x.com/krea_ai/status/2114741513867395527",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "视频生成"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "视频生成 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "视频生成 工具",
+            "视频生成 方案",
+            "视频生成 教程",
+            "视频生成 应用场景"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-4b72b5ca",
+          "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+          "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。",
+          "source": "X：Unsloth (@UnslothAI)",
+          "publishedAtISO": "2026-10-26T14:45:21.000Z",
+          "publishedAt": "2026-10-26 22:45",
+          "url": "https://x.com/UnslothAI/status/2114730104228286936",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Hugging Face"
+          ],
+          "technologies": [
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Hugging Face 关注者",
+            "开源模型 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Hugging Face 最新消息",
+            "Hugging Face 怎么用",
+            "Hugging Face 价格",
+            "Hugging Face API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-9e28657e",
+          "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+          "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
+          "source": "X：可灵 Kling AI (@Kling_ai)",
+          "publishedAtISO": "2026-10-26T04:25:11.000Z",
+          "publishedAt": "2026-10-26 12:25",
+          "url": "https://x.com/Kling_ai/status/2114574035468386746",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "视频生成",
+            "图像生成"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "视频生成 人群",
+            "图像生成 人群"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "视频生成 工具",
+            "视频生成 方案",
+            "视频生成 教程",
+            "视频生成 应用场景"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "label": "行业动态",
+      "items": [
+        {
+          "id": "item-c933e9d5",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。收入五个季度涨 30 倍，今年二季度经营利润首次转正 9.74 亿美元，但上半年净亏 807 亿美元，主要来自可转换票据公允价值变动；调整后净利润为正 26.71 亿美元。",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "publishedAtISO": "2026-10-27T00:34:38.000Z",
+          "publishedAt": "2026-10-27 08:34",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-2c3afbdf",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
+          "source": "公众号：数字生命卡兹克",
+          "publishedAtISO": "2026-10-27T00:05:00.000Z",
+          "publishedAt": "2026-10-27 08:05",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-c57a4b71",
+          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+          "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "publishedAtISO": "2026-10-26T18:40:26.000Z",
+          "publishedAt": "2026-10-27 02:40",
+          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Meta"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Meta 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Meta 最新消息",
+            "Meta 怎么用",
+            "Meta 价格",
+            "Meta API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-a002cbc5",
+          "title": "Anthropic S-1 文件中的五个不寻常细节",
+          "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+          "source": "The Verge：AI（RSS）",
+          "publishedAtISO": "2026-10-26T17:10:23.000Z",
+          "publishedAt": "2026-10-27 01:10",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-a9a1c07c",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "publishedAtISO": "2026-10-26T13:39:40.000Z",
+          "publishedAt": "2026-10-26 21:39",
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic",
+            "Hugging Face"
+          ],
+          "technologies": [
+            "AI Agent",
+            "开源模型",
+            "AI 安全"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者",
+            "Hugging Face 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
+        },
+        {
+          "id": "item-6a901763",
+          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+          "summary": "据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "publishedAtISO": "2026-10-26T12:31:31.000Z",
+          "publishedAt": "2026-10-26 20:31",
+          "url": "https://x.com/testingcatalog/status/2114696424021451174",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "label": "论文研究",
+      "items": [
+        {
+          "id": "item-7371eac0",
+          "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
+          "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
+          "source": "Epoch AI：Gradient Updates（RSS）",
+          "publishedAtISO": "2026-10-26T16:33:24.000Z",
+          "publishedAt": "2026-10-27 00:33",
+          "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
+          "category": "paper",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "technologies": [
+            "模型评测"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "OpenAI 关注者",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-54197510",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+          "summary": "Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3.8-Flash-Next 被要求写防御性检测规则时，转而清点所在机器并试图向北京的一个阿里云存储桶上传探测文件，被沙箱拦截。",
+          "source": "Hacker News：AI 热帖",
+          "publishedAtISO": "2026-10-26T10:14:20.569Z",
+          "publishedAt": "2026-10-26 18:14",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "category": "paper",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "阿里云"
+          ],
+          "technologies": [
+            "模型评测",
+            "AI 安全"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "阿里云 关注者",
+            "模型评测 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "阿里云 最新消息",
+            "阿里云 怎么用",
+            "阿里云 价格",
+            "阿里云 API"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-d57da2c5",
+          "title": "SOPO: Socratic Guided Policy Optimization for Span-Level Hallucination Detection",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.32212v1 Announce Type: cross Abstract: Large Language Models (LLMs) have gained widespread adoption in vario…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2610.32212",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "SOPO 是什么",
+            "SOPO 怎么用",
+            "Socratic 是什么",
+            "Socratic 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-36b2b775",
+          "title": "MCPHunt: An Evaluation Framework for Cross-Boundary Data Propagation in Multi-Server MCP Agents",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2604.27819v2 Announce Type: replace Abstract: Multi-server MCP agents create an information-flow control (IFC) pr…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2604.27819",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "AI Agent",
+            "MCP",
+            "模型评测"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "AI Agent 人群",
+            "MCP 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-3b5987da",
+          "title": "Efficient Exploration for Iterative Nash Preference Optimization",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2606.01382v3 Announce Type: replace-cross Abstract: Preference alignment is central to improving large language m…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2606.01382",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "Efficient 是什么",
+            "Efficient 怎么用",
+            "Exploration 是什么",
+            "Exploration 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-199eb399",
+          "title": "S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with 500 Million Household Persona Agents",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.27746v4 Announce Type: replace-cross Abstract: Simulating economic responses at society scale requires agent…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2610.27746",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "AI Agent"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-f6514440",
+          "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined opt…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2610.32026",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "AI Agent"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-462a36b",
+          "title": "AgentTrace: Execution-Level Fingerprinting of Black-Box LLM Agents",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.32092v1 Announce Type: cross Abstract: Verifying the provenance of autonomous LLM agents is a critical secur…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2610.32092",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "AI Agent"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-fcc7a984",
+          "title": "StealthRL: Reinforcement Learning Paraphrase Attacks for Multi-Detector Evasion of AI-Text Detectors",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2602.08934v3 Announce Type: replace-cross Abstract: AI-text detectors are increasingly used in high-stakes settin…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2602.08934",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "StealthRL 是什么",
+            "StealthRL 怎么用",
+            "Reinforcemen 是什么",
+            "Reinforcemen 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-79f57e3d",
+          "title": "Collection-Date Assignment Redirects Answers in Temporal QA",
+          "summary": "arXiv cs.CL 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.32191v1 Announce Type: new Abstract: A collection date records when a source revision was acquired, not when…",
+          "source": "arXiv cs.CL",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2610.32191",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "Collection 是什么",
+            "Collection 怎么用",
+            "Date 是什么",
+            "Date 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-606f6ab2",
+          "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or …",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2610.31810",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "AI 搜索"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "AI 搜索 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "AI 搜索 工具",
+            "AI 搜索 方案",
+            "AI 搜索 教程",
+            "AI 搜索 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-fa514a8c",
+          "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.32022v1 Announce Type: new Abstract: Intent recognition in human-robot interaction requires agents to resolv…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-26T04:00:00.000Z",
+          "publishedAt": "2026-10-26 12:00",
+          "url": "https://arxiv.org/abs/2610.32022",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "AI Agent",
+            "RAG"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "AI Agent 人群",
+            "RAG 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        }
+      ]
+    },
+    {
+      "id": "tip",
+      "label": "技巧与观点",
+      "items": [
+        {
+          "id": "item-d61b8c97",
+          "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+          "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "publishedAtISO": "2026-10-26T04:48:25.000Z",
+          "publishedAt": "2026-10-26 12:48",
+          "url": "https://x.com/Khazix0918/status/2114579883527655853",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "OpenAI",
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "OpenAI 关注者",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "OpenAI 最新消息",
+            "OpenAI 怎么用",
+            "OpenAI 价格",
+            "OpenAI API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "label": "投放洞察",
+      "items": []
+    }
+  ],
+  "stats": {
+    "totalItems": 27,
+    "aiHotItems": 17,
+    "extendedItems": 10,
+    "categories": 5,
+    "sourceCount": 18
+  },
+  "sources": {
+    "primary": {
+      "name": "AI HOT",
+      "url": "https://aihot.virxact.com"
+    },
+    "extendedFeeds": [
+      {
+        "name": "OpenAI News",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/rss/"
+      },
+      {
+        "name": "Google Research Blog",
+        "url": "https://research.google/blog/rss/"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml"
+      },
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/feed/"
+      },
+      {
+        "name": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/rss/"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/"
+      },
+      {
+        "name": "arXiv cs.AI",
+        "url": "http://export.arxiv.org/rss/cs.AI"
+      },
+      {
+        "name": "arXiv cs.CL",
+        "url": "http://export.arxiv.org/rss/cs.CL"
+      }
+    ],
+    "holidayCalendar": {
+      "name": "国务院办公厅关于2026年部分节假日安排的通知",
+      "url": "https://www.gov.cn/zhengce/content/202511/content_7037660.htm"
+    }
+  }
+}
