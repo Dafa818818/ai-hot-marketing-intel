@@ -1,0 +1,1269 @@
+{
+  "id": "2026-10-29",
+  "title": "AI 热点与营销投放情报",
+  "updatedAtISO": "2026-10-29T01:00:00.000Z",
+  "updatedAtBJT": "2026-10-29 09:00",
+  "autoStatus": "本期内容已于北京时间 09:00 自动更新",
+  "coverage": {
+    "startISO": "2026-10-28T01:00:00.000Z",
+    "endISO": "2026-10-29T01:00:00.000Z",
+    "startBJT": "2026-10-28 09:00",
+    "endBJT": "2026-10-29 09:00",
+    "label": "本期覆盖：2026-10-28 09:00 至 2026-10-29 09:00"
+  },
+  "summary": {
+    "headline": "本期收录 28 条热点，其中 AI HOT 精选 18 条，扩展公开来源 10 条。",
+    "bullets": [
+      "重点分布：论文研究 11 条、行业动态 7 条、undefined 3 条。",
+      "高频品牌/产品：Anthropic、GitHub、Google、Microsoft、OpenAI。",
+      "高频技术线索：AI Agent、AI 安全、开源模型、模型评测、AI 编程。"
+    ],
+    "watchlist": [
+      "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+      "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+      "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+      "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性"
+    ],
+    "marketingSignals": [
+      "产品更新适合做“上手教程、替代方案、场景清单”型内容。",
+      "模型发布适合覆盖品牌词、API 词、价格词、对比词和中文教程词。",
+      "合规与安全议题适合面向企业客户做风险提示和采购评估内容。"
+    ]
+  },
+  "keywordPool": {
+    "flowHot": [
+      "科研工具",
+      "平台生态",
+      "企业数字化",
+      "模型评测",
+      "多模态研究",
+      "开源基准",
+      "算法创新",
+      "研究前沿",
+      "Agent 评估",
+      "AI 论文",
+      "融资并购",
+      "数据安全",
+      "AI 监管合规",
+      "AI 商业化",
+      "AI 芯片",
+      "AI 行业动态",
+      "Anthropic 关注者",
+      "AI Agent 人群",
+      "企业 AI 选型",
+      "大模型更新",
+      "低成本推理",
+      "多模态能力",
+      "国产大模型",
+      "开源模型",
+      "模型评测 人群",
+      "AI 安全 人群",
+      "AI 开发者",
+      "GitHub 关注者"
+    ],
+    "searchValue": [
+      "Anthropic 价格",
+      "Anthropic API",
+      "大模型选型",
+      "开源模型部署",
+      "模型 API",
+      "模型价格",
+      "企业大模型方案",
+      "中文能力对比",
+      "AI Agent 方案",
+      "AI Agent 工具",
+      "AI Agent 教程",
+      "Google 价格",
+      "Google API",
+      "模型评测 方案",
+      "模型评测 工具",
+      "模型评测 教程",
+      "企业 AI 工具",
+      "提示词教程",
+      "AI 产品教程",
+      "AI 工具推荐",
+      "AI 内容创作工具",
+      "AI 自动化教程",
+      "Microsoft 价格",
+      "Microsoft API",
+      "教程 是什么",
+      "教程 怎么用",
+      "开源模型 方案",
+      "开源模型 工具"
+    ],
+    "longTail": [
+      "最新 AI 论文",
+      "AI 商业化案例",
+      "Agent 论文",
+      "生成式 AI 合规",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
+      "Anthropic 价格",
+      "Anthropic API",
+      "Google 怎么用",
+      "Google 最新消息",
+      "AI Agent 方案",
+      "AI Agent 工具",
+      "AI Agent 教程",
+      "AI Agent 应用场景",
+      "Google 价格",
+      "Google API",
+      "AI 工作流案例",
+      "Microsoft 怎么用",
+      "Microsoft 最新消息",
+      "模型评测 教程",
+      "模型评测 应用场景",
+      "企业 AI 工具",
+      "提示词教程",
+      "AI 办公自动化",
+      "AI 产品教程",
+      "AI 工作流搭建",
+      "AI 内容创作工具",
+      "AI 自动化教程"
+    ],
+    "brandProduct": [
+      "Anthropic",
+      "Anthropic 价格",
+      "Anthropic 怎么用",
+      "Anthropic 最新消息",
+      "Anthropic API",
+      "GitHub",
+      "Google",
+      "Google 价格",
+      "Google 怎么用",
+      "Google 最新消息",
+      "Google API",
+      "Microsoft",
+      "Microsoft 价格",
+      "Microsoft 怎么用",
+      "Microsoft 最新消息",
+      "Microsoft API",
+      "GitHub 价格",
+      "GitHub 怎么用",
+      "GitHub 最新消息",
+      "GitHub API",
+      "OpenAI",
+      "OpenAI 价格",
+      "OpenAI 怎么用",
+      "OpenAI 最新消息",
+      "OpenAI API"
+    ]
+  },
+  "groups": [
+    {
+      "id": "ai-models",
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "id": "item-288a311",
+          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
+          "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "publishedAtISO": "2026-10-28T17:01:48.000Z",
+          "publishedAt": "2026-10-29 01:01",
+          "url": "https://x.com/sundarpichai/status/2115489219804352921",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "AI 安全"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "Google 关注者",
+            "AI 安全 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "可围绕Google相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-5b7f987",
+          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+          "summary": "Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。",
+          "source": "Google DeepMind：Blog（RSS）",
+          "publishedAtISO": "2026-10-28T17:00:58.000Z",
+          "publishedAt": "2026-10-29 01:00",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "AI Agent",
+            "AI 安全"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "Google 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "可围绕Google相关的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        },
+        {
+          "id": "item-109662ed",
+          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "publishedAtISO": "2026-10-28T11:38:17.000Z",
+          "publishedAt": "2026-10-28 19:38",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+          "category": "ai-models",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [
+            "开源模型"
+          ],
+          "flowTags": [
+            "大模型更新",
+            "模型评测",
+            "AI 开发者",
+            "企业 AI 选型",
+            "国产大模型",
+            "开源模型",
+            "低成本推理",
+            "多模态能力",
+            "开源模型 人群"
+          ],
+          "searchKeywords": [
+            "大模型选型",
+            "模型 API",
+            "模型价格",
+            "中文能力对比",
+            "开源模型部署",
+            "企业大模型方案",
+            "开源模型 工具",
+            "开源模型 方案",
+            "开源模型 教程",
+            "开源模型 应用场景"
+          ],
+          "marketingAngle": "可围绕模型发布/更新的能力更新、价格/API、中文体验和替代方案做搜索承接。"
+        }
+      ]
+    },
+    {
+      "id": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "item-ae490d67",
+          "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
+          "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
+          "source": "Microsoft：Official Blog（RSS）",
+          "publishedAtISO": "2026-10-28T16:51:35.000Z",
+          "publishedAt": "2026-10-29 00:51",
+          "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Microsoft",
+            "GitHub"
+          ],
+          "technologies": [
+            "AI Agent",
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Microsoft 关注者",
+            "GitHub 关注者"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Microsoft 最新消息",
+            "Microsoft 怎么用",
+            "Microsoft 价格",
+            "Microsoft API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        },
+        {
+          "id": "item-e33e8f7f",
+          "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
+          "summary": "GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。",
+          "source": "GitHub Blog",
+          "publishedAtISO": "2026-10-28T16:09:28.000Z",
+          "publishedAt": "2026-10-29 00:09",
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "category": "ai-products",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Microsoft",
+            "GitHub"
+          ],
+          "technologies": [
+            "AI Agent",
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 工具",
+            "效率工具",
+            "智能办公",
+            "内容创作",
+            "运营自动化",
+            "AI 工作流",
+            "创意生产",
+            "企业软件",
+            "Microsoft 关注者",
+            "GitHub 关注者"
+          ],
+          "searchKeywords": [
+            "AI 工具推荐",
+            "AI 办公自动化",
+            "AI 内容创作工具",
+            "AI 产品教程",
+            "AI 工作流搭建",
+            "企业 AI 工具",
+            "Microsoft 最新消息",
+            "Microsoft 怎么用",
+            "Microsoft 价格",
+            "Microsoft API"
+          ],
+          "marketingAngle": "适合拆成上手教程、场景清单和效率工具对比，服务内容运营与信息流测试。"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "label": "行业动态",
+      "items": [
+        {
+          "id": "item-459bbceb",
+          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+          "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "publishedAtISO": "2026-10-28T20:05:31.000Z",
+          "publishedAt": "2026-10-29 04:05",
+          "url": "https://x.com/sundarpichai/status/2115535455156642066",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Google"
+          ],
+          "technologies": [
+            "AI 搜索"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Google 关注者",
+            "AI 搜索 人群"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Google 最新消息",
+            "Google 怎么用",
+            "Google 价格",
+            "Google API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-d0cdce69",
+          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
+          "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "publishedAtISO": "2026-10-28T17:11:27.000Z",
+          "publishedAt": "2026-10-29 01:11",
+          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic",
+            "Microsoft"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者",
+            "Microsoft 关注者"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-b4682eb6",
+          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+          "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
+          "source": "X：Boris Cherny (@bcherny)",
+          "publishedAtISO": "2026-10-28T17:09:54.000Z",
+          "publishedAt": "2026-10-29 01:09",
+          "url": "https://x.com/bcherny/status/2115491259381072269",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-b946fe72",
+          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
+          "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
+          "source": "GitHub Blog",
+          "publishedAtISO": "2026-10-28T16:07:40.000Z",
+          "publishedAt": "2026-10-29 00:07",
+          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "GitHub"
+          ],
+          "technologies": [
+            "AI Agent",
+            "AI 编程",
+            "开源模型"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "GitHub 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "GitHub 最新消息",
+            "GitHub 怎么用",
+            "GitHub 价格",
+            "GitHub API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-69d2c67e",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+          "source": "The Decoder：AI News（RSS）",
+          "publishedAtISO": "2026-10-28T10:56:24.000Z",
+          "publishedAt": "2026-10-28 18:56",
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI Agent",
+            "AI 安全"
+          ],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合面向企业客户输出合规、安全和采购风险提示。"
+        },
+        {
+          "id": "item-b7e3369b",
+          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+          "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "publishedAtISO": "2026-10-28T09:32:56.000Z",
+          "publishedAt": "2026-10-28 17:32",
+          "url": "https://x.com/SaitoWu/status/2115376256929948006",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者",
+            "营销增长"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        },
+        {
+          "id": "item-e581d11d",
+          "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
+          "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。",
+          "source": "TechCrunch：AI（RSS）",
+          "publishedAtISO": "2026-10-28T01:15:28.000Z",
+          "publishedAt": "2026-10-28 09:15",
+          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+          "category": "industry",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 行业动态",
+            "融资并购",
+            "AI 监管合规",
+            "AI 芯片",
+            "企业数字化",
+            "AI 商业化",
+            "平台生态",
+            "数据安全",
+            "Anthropic 关注者",
+            "企业服务"
+          ],
+          "searchKeywords": [
+            "AI 行业趋势",
+            "AI 监管政策",
+            "AI 融资新闻",
+            "AI 商业化案例",
+            "AI 芯片公司",
+            "生成式 AI 合规",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "可转化为行业趋势解读、竞品观察和企业 AI 落地选题。"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "label": "论文研究",
+      "items": [
+        {
+          "id": "item-4165574f",
+          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+          "source": "IT之家·人工智能",
+          "publishedAtISO": "2026-10-28T22:35:25.040Z",
+          "publishedAt": "2026-10-29 06:35",
+          "url": "https://www.ithome.com/1/019/268.htm",
+          "category": "paper",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "Anthropic 关注者"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-51e7b25e",
+          "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retr…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2610.36169",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "RAG",
+            "模型评测"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "RAG 人群",
+            "模型评测 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "RAG 工具",
+            "RAG 方案",
+            "RAG 教程",
+            "RAG 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-3a1342b7",
+          "title": "kw-bench: Breaking Frontier Harnesses on Real-World Tasks",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.36405v1 Announce Type: new Abstract: Each new generation of frontier model pushes the edge of what is possib…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2610.36405",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "kw 是什么",
+            "kw 怎么用",
+            "bench 是什么",
+            "bench 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-a81aaba6",
+          "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.36433v1 Announce Type: new Abstract: Construction safety management still struggles to produce daily safety …",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2610.36433",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "AI Agent",
+            "AI 安全"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "AI Agent 人群",
+            "AI 安全 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-b7061acd",
+          "title": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.37369v1 Announce Type: new Abstract: Large language models (LLMs) are usually evaluated by final-output corr…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2610.37369",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "模型评测"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "模型评测 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "模型评测 工具",
+            "模型评测 方案",
+            "模型评测 教程",
+            "模型评测 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-f551f90d",
+          "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.37624v1 Announce Type: new Abstract: When an LLM group's discussion is compressed into a short memory for a …",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2610.37624",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "Rare 是什么",
+            "Rare 怎么用",
+            "Relevant 是什么",
+            "Relevant 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-e272f612",
+          "title": "How Much Does the Hint Matter? Scope Conditions for Hindsight Self-Distillation in Financial Reasoning",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.36082v1 Announce Type: cross Abstract: Financial institutions operating under data-residency constraints are…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2610.36082",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "How 是什么",
+            "How 怎么用",
+            "Much 是什么",
+            "Much 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-f8c7b939",
+          "title": "SetGRPO: Calibrating Grader-Induced Policy Optimization",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2610.36807v1 Announce Type: cross Abstract: Rubric-based reinforcement learning uses fine-grained grader feedback…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2610.36807",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "SetGRPO 是什么",
+            "SetGRPO 怎么用",
+            "Calibrating 是什么",
+            "Calibrating 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-141b7cbd",
+          "title": "When AI Agrees Too Much: Manipulating Automated Code Review via Bias Injection",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2603.18740v5 Announce Type: replace-cross Abstract: Automated Code Review (ACR) systems integrating Large Languag…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2603.18740",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "When 是什么",
+            "When 怎么用",
+            "AI 是什么",
+            "AI 怎么用"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-b4dd099b",
+          "title": "Scoring-Rule Sensitivity in LLM Evaluation: Evidence from Indian Financial Regulatory Text",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2604.19298v3 Announce Type: replace-cross Abstract: A benchmark leaderboard reports one accuracy number, but that…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2604.19298",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "模型评测"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "模型评测 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "模型评测 工具",
+            "模型评测 方案",
+            "模型评测 教程",
+            "模型评测 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        },
+        {
+          "id": "item-735a87bd",
+          "title": "Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents",
+          "summary": "arXiv cs.AI 发布了与论文研究相关的新动态。原文摘要提到：arXiv:2609.01487v4 Announce Type: replace-cross Abstract: Skill-augmented agents load reusable skills as persistent run…",
+          "source": "arXiv cs.AI",
+          "publishedAtISO": "2026-10-28T04:00:00.000Z",
+          "publishedAt": "2026-10-28 12:00",
+          "url": "https://arxiv.org/abs/2609.01487",
+          "category": "paper",
+          "sourceType": "扩展热点观察",
+          "sourceTypeKey": "extended",
+          "brands": [],
+          "technologies": [
+            "AI Agent"
+          ],
+          "flowTags": [
+            "AI 论文",
+            "模型评测",
+            "研究前沿",
+            "算法创新",
+            "科研工具",
+            "多模态研究",
+            "Agent 评估",
+            "开源基准",
+            "AI Agent 人群"
+          ],
+          "searchKeywords": [
+            "AI 论文解读",
+            "最新 AI 论文",
+            "模型评测基准",
+            "AI 研究趋势",
+            "多模态论文",
+            "Agent 论文",
+            "AI Agent 工具",
+            "AI Agent 方案",
+            "AI Agent 教程",
+            "AI Agent 应用场景"
+          ],
+          "marketingAngle": "适合做研究解读、评测对比和“趋势是否可商用”的专业内容。"
+        }
+      ]
+    },
+    {
+      "id": "tip",
+      "label": "技巧与观点",
+      "items": [
+        {
+          "id": "item-a2cf1891",
+          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+          "source": "OpenRouter：Announcements（RSS）",
+          "publishedAtISO": "2026-10-29T00:00:00.000Z",
+          "publishedAt": "2026-10-29 08:00",
+          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [],
+          "technologies": [],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "OpenRouter 是什么",
+            "OpenRouter 怎么用",
+            "教程 是什么",
+            "教程 怎么用"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        },
+        {
+          "id": "item-c4134ae1",
+          "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+          "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
+          "source": "X：Addy Osmani (@addyosmani)",
+          "publishedAtISO": "2026-10-28T06:15:43.000Z",
+          "publishedAt": "2026-10-28 14:15",
+          "url": "https://x.com/addyosmani/status/2115326629488824753",
+          "category": "tip",
+          "sourceType": "AI HOT 精选",
+          "sourceTypeKey": "aihot",
+          "brands": [
+            "Anthropic"
+          ],
+          "technologies": [
+            "AI 编程"
+          ],
+          "flowTags": [
+            "AI 使用技巧",
+            "提示词工程",
+            "AI 提效",
+            "运营方法论",
+            "开发者经验",
+            "内容生产",
+            "成本优化",
+            "工作流优化",
+            "Anthropic 关注者",
+            "AI 编程 人群"
+          ],
+          "searchKeywords": [
+            "AI 提效方法",
+            "提示词教程",
+            "AI 工作流案例",
+            "AI 降本增效",
+            "AI 运营技巧",
+            "AI 自动化教程",
+            "Anthropic 最新消息",
+            "Anthropic 怎么用",
+            "Anthropic 价格",
+            "Anthropic API"
+          ],
+          "marketingAngle": "适合沉淀成操作方法、模板下载、团队提效和成本优化类长尾内容。"
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "label": "投放洞察",
+      "items": []
+    }
+  ],
+  "stats": {
+    "totalItems": 28,
+    "aiHotItems": 18,
+    "extendedItems": 10,
+    "categories": 5,
+    "sourceCount": 17
+  },
+  "sources": {
+    "primary": {
+      "name": "AI HOT",
+      "url": "https://aihot.virxact.com"
+    },
+    "extendedFeeds": [
+      {
+        "name": "OpenAI News",
+        "url": "https://openai.com/news/rss.xml"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/rss/"
+      },
+      {
+        "name": "Google Research Blog",
+        "url": "https://research.google/blog/rss/"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml"
+      },
+      {
+        "name": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/feed/"
+      },
+      {
+        "name": "Meta AI Blog",
+        "url": "https://ai.meta.com/blog/rss/"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/"
+      },
+      {
+        "name": "arXiv cs.AI",
+        "url": "http://export.arxiv.org/rss/cs.AI"
+      },
+      {
+        "name": "arXiv cs.CL",
+        "url": "http://export.arxiv.org/rss/cs.CL"
+      }
+    ],
+    "holidayCalendar": {
+      "name": "国务院办公厅关于2026年部分节假日安排的通知",
+      "url": "https://www.gov.cn/zhengce/content/202511/content_7037660.htm"
+    }
+  }
+}
